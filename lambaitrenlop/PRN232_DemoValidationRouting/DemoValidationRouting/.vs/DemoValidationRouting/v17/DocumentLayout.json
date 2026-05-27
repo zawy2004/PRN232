@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\PRN232_DemoValidationRouting\\DemoValidationRouting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09370CC4-9C35-48D4-9A43-B78003C916A2}|DemoValidationRouting\\DemoValidationRouting.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\lambaitrenlop\\prn232_demovalidationrouting\\demovalidationrouting\\demovalidationrouting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09370CC4-9C35-48D4-9A43-B78003C916A2}|DemoValidationRouting\\DemoValidationRouting.csproj|solutionrelative:demovalidationrouting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09370CC4-9C35-48D4-9A43-B78003C916A2}|DemoValidationRouting\\DemoValidationRouting.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\lambaitrenlop\\prn232_demovalidationrouting\\demovalidationrouting\\demovalidationrouting\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09370CC4-9C35-48D4-9A43-B78003C916A2}|DemoValidationRouting\\DemoValidationRouting.csproj|solutionrelative:demovalidationrouting\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09370CC4-9C35-48D4-9A43-B78003C916A2}|DemoValidationRouting\\DemoValidationRouting.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\lambaitrenlop\\prn232_demovalidationrouting\\demovalidationrouting\\demovalidationrouting\\repository\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09370CC4-9C35-48D4-9A43-B78003C916A2}|DemoValidationRouting\\DemoValidationRouting.csproj|solutionrelative:demovalidationrouting\\repository\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09370CC4-9C35-48D4-9A43-B78003C916A2}|DemoValidationRouting\\DemoValidationRouting.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\lambaitrenlop\\prn232_demovalidationrouting\\demovalidationrouting\\demovalidationrouting\\repository\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09370CC4-9C35-48D4-9A43-B78003C916A2}|DemoValidationRouting\\DemoValidationRouting.csproj|solutionrelative:demovalidationrouting\\repository\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09370CC4-9C35-48D4-9A43-B78003C916A2}|DemoValidationRouting\\DemoValidationRouting.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\lambaitrenlop\\prn232_demovalidationrouting\\demovalidationrouting\\demovalidationrouting\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09370CC4-9C35-48D4-9A43-B78003C916A2}|DemoValidationRouting\\DemoValidationRouting.csproj|solutionrelative:demovalidationrouting\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\PRN232_DemoValidationRouting\\DemoValidationRouting\\DemoValidationRouting\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoValidationRouting\\appsettings.json",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\PRN232_DemoValidationRouting\\DemoValidationRouting\\DemoValidationRouting\\appsettings.json",
+              "RelativeToolTip": "DemoValidationRouting\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-21T07:23:45.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\PRN232_DemoValidationRouting\\DemoValidationRouting\\DemoValidationRouting\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "DemoValidationRouting\\Controllers\\CompaniesController.cs",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\PRN232_DemoValidationRouting\\DemoValidationRouting\\DemoValidationRouting\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "DemoValidationRouting\\Controllers\\CompaniesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T07:21:40.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\PRN232_DemoValidationRouting\\DemoValidationRouting\\DemoValidationRouting\\Repository\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "DemoValidationRouting\\Repository\\IRepositoryManager.cs",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\PRN232_DemoValidationRouting\\DemoValidationRouting\\DemoValidationRouting\\Repository\\IRepositoryManager.cs",
+              "RelativeToolTip": "DemoValidationRouting\\Repository\\IRepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T01:44:53.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\PRN232_DemoValidationRouting\\DemoValidationRouting\\DemoValidationRouting\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "DemoValidationRouting\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\PRN232_DemoValidationRouting\\DemoValidationRouting\\DemoValidationRouting\\Models\\Employee.cs",
+              "RelativeToolTip": "DemoValidationRouting\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T01:44:20.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\PRN232_DemoValidationRouting\\DemoValidationRouting\\DemoValidationRouting\\Repository\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "DemoValidationRouting\\Repository\\RepositoryManager.cs",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\PRN232_DemoValidationRouting\\DemoValidationRouting\\DemoValidationRouting\\Repository\\RepositoryManager.cs",
+              "RelativeToolTip": "DemoValidationRouting\\Repository\\RepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T01:44:14.345Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

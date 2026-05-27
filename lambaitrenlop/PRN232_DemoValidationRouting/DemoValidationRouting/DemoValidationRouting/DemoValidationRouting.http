@@ -1,0 +1,36 @@
+@DemoValidationRouting_HostAddress = http://localhost:5240
+@companyId = d28888e9-2ba9-473a-a40f-e38cb54f9b35
+@employeeId = 021ca3c1-0deb-4afd-ae94-2159a8479811
+
+### GET all companies
+GET {{DemoValidationRouting_HostAddress}}/api/companies
+Accept: application/json
+
+###
+
+### GET employees for company (Microsoft)
+GET {{DemoValidationRouting_HostAddress}}/api/companies/{{companyId}}/employees
+Accept: application/json
+
+###
+
+### GET employee by id
+GET {{DemoValidationRouting_HostAddress}}/api/companies/{{companyId}}/employees/{{employeeId}}
+Accept: application/json
+
+###
+
+### POST create employee
+POST {{DemoValidationRouting_HostAddress}}/api/companies/{{companyId}}/employees
+Content-Type: application/json
+
+{
+  "name": "Test User",
+  "age": 25,
+  "position": "Developer"
+}
+
+###
+
+### DELETE employee (use id from POST response)
+# DELETE {{DemoValidationRouting_HostAddress}}/api/companies/{{companyId}}/employees/{id}
