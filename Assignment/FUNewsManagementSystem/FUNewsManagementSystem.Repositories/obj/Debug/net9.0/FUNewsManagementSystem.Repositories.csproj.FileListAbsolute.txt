@@ -1,0 +1,16 @@
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.Repositories\bin\Debug\net9.0\FUNewsManagementSystem.Repositories.deps.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.Repositories\bin\Debug\net9.0\FUNewsManagementSystem.Repositories.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.Repositories\bin\Debug\net9.0\FUNewsManagementSystem.Repositories.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.Repositories\bin\Debug\net9.0\FUNewsManagementSystem.DataAccess.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.Repositories\bin\Debug\net9.0\FUNewsManagementSystem.DataAccess.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.Repositories\obj\Debug\net9.0\FUNewsManagementSystem.Repositories.csproj.AssemblyReference.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.Repositories\obj\Debug\net9.0\FUNewsManagementSystem.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.Repositories\obj\Debug\net9.0\FUNewsManagementSystem.Repositories.AssemblyInfoInputs.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.Repositories\obj\Debug\net9.0\FUNewsManagementSystem.Repositories.AssemblyInfo.cs
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.Repositories\obj\Debug\net9.0\FUNewsManagementSystem.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.Repositories\obj\Debug\net9.0\FUNewsManagementSystem.Repositories.sourcelink.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.Repositories\obj\Debug\net9.0\FUNewsMa.E08F52D1.Up2Date
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.Repositories\obj\Debug\net9.0\FUNewsManagementSystem.Repositories.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.Repositories\obj\Debug\net9.0\refint\FUNewsManagementSystem.Repositories.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.Repositories\obj\Debug\net9.0\FUNewsManagementSystem.Repositories.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.Repositories\obj\Debug\net9.0\ref\FUNewsManagementSystem.Repositories.dll

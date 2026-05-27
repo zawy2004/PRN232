@@ -1,0 +1,13 @@
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.DataAccess\bin\Debug\net9.0\FUNewsManagementSystem.DataAccess.deps.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.DataAccess\bin\Debug\net9.0\FUNewsManagementSystem.DataAccess.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.DataAccess\bin\Debug\net9.0\FUNewsManagementSystem.DataAccess.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.DataAccess\obj\Debug\net9.0\FUNewsManagementSystem.DataAccess.csproj.AssemblyReference.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.DataAccess\obj\Debug\net9.0\FUNewsManagementSystem.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.DataAccess\obj\Debug\net9.0\FUNewsManagementSystem.DataAccess.AssemblyInfoInputs.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.DataAccess\obj\Debug\net9.0\FUNewsManagementSystem.DataAccess.AssemblyInfo.cs
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.DataAccess\obj\Debug\net9.0\FUNewsManagementSystem.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.DataAccess\obj\Debug\net9.0\FUNewsManagementSystem.DataAccess.sourcelink.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.DataAccess\obj\Debug\net9.0\FUNewsManagementSystem.DataAccess.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.DataAccess\obj\Debug\net9.0\refint\FUNewsManagementSystem.DataAccess.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.DataAccess\obj\Debug\net9.0\FUNewsManagementSystem.DataAccess.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\FUNewsManagementSystem\FUNewsManagementSystem.DataAccess\obj\Debug\net9.0\ref\FUNewsManagementSystem.DataAccess.dll

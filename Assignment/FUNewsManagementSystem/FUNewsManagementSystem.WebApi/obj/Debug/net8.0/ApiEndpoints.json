@@ -1,0 +1,1038 @@
+[
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FUNewsManagementSystem.WebApi.Models.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.NewsArticlesController",
+    "Method": "GetActive",
+    "RelativePath": "api/news/active",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.NewsArticlesController",
+    "Method": "GetByCreator",
+    "RelativePath": "api/news/creator/{accountId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Microsoft.AspNetCore.OData.Routing.Controllers.MetadataController",
+    "Method": "GetServiceDocument",
+    "RelativePath": "odata",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Microsoft.OData.ODataServiceDocument",
+        "MediaTypes": [
+          "application/json;odata.metadata=minimal;odata.streaming=true",
+          "application/json;odata.metadata=minimal;odata.streaming=false",
+          "application/json;odata.metadata=minimal",
+          "application/json;odata.metadata=full;odata.streaming=true",
+          "application/json;odata.metadata=full;odata.streaming=false",
+          "application/json;odata.metadata=full",
+          "application/json;odata.metadata=none;odata.streaming=true",
+          "application/json;odata.metadata=none;odata.streaming=false",
+          "application/json;odata.metadata=none",
+          "application/json;odata.streaming=true",
+          "application/json;odata.streaming=false",
+          "application/json",
+          "application/xml",
+          "application/json",
+          "text/plain",
+          "application/octet-stream",
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "odata/"
+  },
+  {
+    "ContainingType": "Microsoft.AspNetCore.OData.Routing.Controllers.MetadataController",
+    "Method": "GetMetadata",
+    "RelativePath": "odata/$metadata",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Microsoft.OData.Edm.IEdmModel",
+        "MediaTypes": [
+          "application/json;odata.metadata=minimal;odata.streaming=true",
+          "application/json;odata.metadata=minimal;odata.streaming=false",
+          "application/json;odata.metadata=minimal",
+          "application/json;odata.metadata=full;odata.streaming=true",
+          "application/json;odata.metadata=full;odata.streaming=false",
+          "application/json;odata.metadata=full",
+          "application/json;odata.metadata=none;odata.streaming=true",
+          "application/json;odata.metadata=none;odata.streaming=false",
+          "application/json;odata.metadata=none",
+          "application/json;odata.streaming=true",
+          "application/json;odata.streaming=false",
+          "application/json",
+          "application/xml",
+          "application/json",
+          "text/plain",
+          "application/octet-stream",
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "odata/$metadata"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.CategoriesController",
+    "Method": "Get",
+    "RelativePath": "odata/Categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.CategoriesController",
+    "Method": "Get",
+    "RelativePath": "odata/Categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "odata/Categories"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.CategoriesController",
+    "Method": "Post",
+    "RelativePath": "odata/Categories",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "FUNewsManagementSystem.DataAccess.Entities.Category",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.CategoriesController",
+    "Method": "Post",
+    "RelativePath": "odata/Categories",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "FUNewsManagementSystem.DataAccess.Entities.Category",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/Categories"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.CategoriesController",
+    "Method": "Get",
+    "RelativePath": "odata/Categories({key})",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.CategoriesController",
+    "Method": "Get",
+    "RelativePath": "odata/Categories({key})",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/Categories({key})"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.CategoriesController",
+    "Method": "Put",
+    "RelativePath": "odata/Categories({key})",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "category",
+        "Type": "FUNewsManagementSystem.DataAccess.Entities.Category",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.CategoriesController",
+    "Method": "Put",
+    "RelativePath": "odata/Categories({key})",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "category",
+        "Type": "FUNewsManagementSystem.DataAccess.Entities.Category",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/Categories({key})"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.CategoriesController",
+    "Method": "Delete",
+    "RelativePath": "odata/Categories({key})",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.CategoriesController",
+    "Method": "Delete",
+    "RelativePath": "odata/Categories({key})",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/Categories({key})"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.CategoriesController",
+    "Method": "Get",
+    "RelativePath": "odata/Categories/{key}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/Categories/{key}"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.CategoriesController",
+    "Method": "Put",
+    "RelativePath": "odata/Categories/{key}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "category",
+        "Type": "FUNewsManagementSystem.DataAccess.Entities.Category",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/Categories/{key}"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.CategoriesController",
+    "Method": "Delete",
+    "RelativePath": "odata/Categories/{key}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/Categories/{key}"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.CategoriesController",
+    "Method": "Get",
+    "RelativePath": "odata/Categories/$count",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "odata/Categories/$count"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.NewsArticlesController",
+    "Method": "Get",
+    "RelativePath": "odata/NewsArticles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.NewsArticlesController",
+    "Method": "Get",
+    "RelativePath": "odata/NewsArticles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "odata/NewsArticles"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.NewsArticlesController",
+    "Method": "Post",
+    "RelativePath": "odata/NewsArticles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FUNewsManagementSystem.WebApi.Models.NewsArticleCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.NewsArticlesController",
+    "Method": "Post",
+    "RelativePath": "odata/NewsArticles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FUNewsManagementSystem.WebApi.Models.NewsArticleCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/NewsArticles"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.NewsArticlesController",
+    "Method": "Get",
+    "RelativePath": "odata/NewsArticles({key})",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.NewsArticlesController",
+    "Method": "Get",
+    "RelativePath": "odata/NewsArticles({key})",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/NewsArticles({key})"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.NewsArticlesController",
+    "Method": "Put",
+    "RelativePath": "odata/NewsArticles({key})",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "FUNewsManagementSystem.WebApi.Models.NewsArticleUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.NewsArticlesController",
+    "Method": "Put",
+    "RelativePath": "odata/NewsArticles({key})",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "FUNewsManagementSystem.WebApi.Models.NewsArticleUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/NewsArticles({key})"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.NewsArticlesController",
+    "Method": "Delete",
+    "RelativePath": "odata/NewsArticles({key})",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.NewsArticlesController",
+    "Method": "Delete",
+    "RelativePath": "odata/NewsArticles({key})",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/NewsArticles({key})"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.NewsArticlesController",
+    "Method": "Get",
+    "RelativePath": "odata/NewsArticles/{key}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/NewsArticles/{key}"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.NewsArticlesController",
+    "Method": "Put",
+    "RelativePath": "odata/NewsArticles/{key}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "FUNewsManagementSystem.WebApi.Models.NewsArticleUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/NewsArticles/{key}"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.NewsArticlesController",
+    "Method": "Delete",
+    "RelativePath": "odata/NewsArticles/{key}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/NewsArticles/{key}"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.NewsArticlesController",
+    "Method": "Get",
+    "RelativePath": "odata/NewsArticles/$count",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "odata/NewsArticles/$count"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.SystemAccountsController",
+    "Method": "Get",
+    "RelativePath": "odata/SystemAccounts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.SystemAccountsController",
+    "Method": "Get",
+    "RelativePath": "odata/SystemAccounts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "odata/SystemAccounts"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.SystemAccountsController",
+    "Method": "Post",
+    "RelativePath": "odata/SystemAccounts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "account",
+        "Type": "FUNewsManagementSystem.DataAccess.Entities.SystemAccount",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.SystemAccountsController",
+    "Method": "Post",
+    "RelativePath": "odata/SystemAccounts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "account",
+        "Type": "FUNewsManagementSystem.DataAccess.Entities.SystemAccount",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/SystemAccounts"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.SystemAccountsController",
+    "Method": "Get",
+    "RelativePath": "odata/SystemAccounts({key})",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.SystemAccountsController",
+    "Method": "Get",
+    "RelativePath": "odata/SystemAccounts({key})",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/SystemAccounts({key})"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.SystemAccountsController",
+    "Method": "Put",
+    "RelativePath": "odata/SystemAccounts({key})",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "account",
+        "Type": "FUNewsManagementSystem.DataAccess.Entities.SystemAccount",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.SystemAccountsController",
+    "Method": "Put",
+    "RelativePath": "odata/SystemAccounts({key})",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "account",
+        "Type": "FUNewsManagementSystem.DataAccess.Entities.SystemAccount",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/SystemAccounts({key})"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.SystemAccountsController",
+    "Method": "Delete",
+    "RelativePath": "odata/SystemAccounts({key})",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.SystemAccountsController",
+    "Method": "Delete",
+    "RelativePath": "odata/SystemAccounts({key})",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/SystemAccounts({key})"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.SystemAccountsController",
+    "Method": "Get",
+    "RelativePath": "odata/SystemAccounts/{key}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/SystemAccounts/{key}"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.SystemAccountsController",
+    "Method": "Put",
+    "RelativePath": "odata/SystemAccounts/{key}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "account",
+        "Type": "FUNewsManagementSystem.DataAccess.Entities.SystemAccount",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/SystemAccounts/{key}"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.SystemAccountsController",
+    "Method": "Delete",
+    "RelativePath": "odata/SystemAccounts/{key}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/SystemAccounts/{key}"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.SystemAccountsController",
+    "Method": "Get",
+    "RelativePath": "odata/SystemAccounts/$count",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "odata/SystemAccounts/$count"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.TagsController",
+    "Method": "Get",
+    "RelativePath": "odata/Tags",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.TagsController",
+    "Method": "Get",
+    "RelativePath": "odata/Tags",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "odata/Tags"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.TagsController",
+    "Method": "Post",
+    "RelativePath": "odata/Tags",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tag",
+        "Type": "FUNewsManagementSystem.DataAccess.Entities.Tag",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.TagsController",
+    "Method": "Post",
+    "RelativePath": "odata/Tags",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tag",
+        "Type": "FUNewsManagementSystem.DataAccess.Entities.Tag",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/Tags"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.TagsController",
+    "Method": "Get",
+    "RelativePath": "odata/Tags({key})",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.TagsController",
+    "Method": "Get",
+    "RelativePath": "odata/Tags({key})",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/Tags({key})"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.TagsController",
+    "Method": "Put",
+    "RelativePath": "odata/Tags({key})",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "tag",
+        "Type": "FUNewsManagementSystem.DataAccess.Entities.Tag",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.TagsController",
+    "Method": "Put",
+    "RelativePath": "odata/Tags({key})",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "tag",
+        "Type": "FUNewsManagementSystem.DataAccess.Entities.Tag",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/Tags({key})"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.TagsController",
+    "Method": "Delete",
+    "RelativePath": "odata/Tags({key})",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.TagsController",
+    "Method": "Delete",
+    "RelativePath": "odata/Tags({key})",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/Tags({key})"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.TagsController",
+    "Method": "Get",
+    "RelativePath": "odata/Tags/{key}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/Tags/{key}"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.TagsController",
+    "Method": "Put",
+    "RelativePath": "odata/Tags/{key}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "tag",
+        "Type": "FUNewsManagementSystem.DataAccess.Entities.Tag",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/Tags/{key}"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.TagsController",
+    "Method": "Delete",
+    "RelativePath": "odata/Tags/{key}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "odata/Tags/{key}"
+  },
+  {
+    "ContainingType": "FUNewsManagementSystem.WebApi.Controllers.OData.TagsController",
+    "Method": "Get",
+    "RelativePath": "odata/Tags/$count",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "odata/Tags/$count"
+  }
+]
