@@ -1,0 +1,35 @@
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Repositories\bin\Debug\net8.0\FUCourseManagementSystem.Repositories.deps.json
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Repositories\bin\Debug\net8.0\FUCourseManagementSystem.Repositories.dll
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Repositories\bin\Debug\net8.0\FUCourseManagementSystem.Repositories.pdb
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Repositories\bin\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.dll
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Repositories\bin\Debug\net8.0\FUCourseManagementSystem.DataAccess.dll
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Repositories\bin\Debug\net8.0\FUCourseManagementSystem.DataAccess.pdb
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Repositories\bin\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.pdb
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Repositories\obj\Debug\net8.0\FUCourseManagementSystem.Repositories.csproj.AssemblyReference.cache
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Repositories\obj\Debug\net8.0\FUCourseManagementSystem.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Repositories\obj\Debug\net8.0\FUCourseManagementSystem.Repositories.AssemblyInfoInputs.cache
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Repositories\obj\Debug\net8.0\FUCourseManagementSystem.Repositories.AssemblyInfo.cs
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Repositories\obj\Debug\net8.0\FUCourseManagementSystem.Repositories.csproj.CoreCompileInputs.cache
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Repositories\obj\Debug\net8.0\FUCourse.0E4C49B7.Up2Date
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Repositories\obj\Debug\net8.0\FUCourseManagementSystem.Repositories.dll
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Repositories\obj\Debug\net8.0\refint\FUCourseManagementSystem.Repositories.dll
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Repositories\obj\Debug\net8.0\FUCourseManagementSystem.Repositories.pdb
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Repositories\obj\Debug\net8.0\ref\FUCourseManagementSystem.Repositories.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Repositories\bin\Debug\net8.0\FUCourseManagementSystem.Repositories.deps.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Repositories\bin\Debug\net8.0\FUCourseManagementSystem.Repositories.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Repositories\bin\Debug\net8.0\FUCourseManagementSystem.Repositories.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Repositories\bin\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Repositories\bin\Debug\net8.0\FUCourseManagementSystem.DataAccess.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Repositories\bin\Debug\net8.0\FUCourseManagementSystem.DataAccess.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Repositories\bin\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Repositories\obj\Debug\net8.0\FUCourseManagementSystem.Repositories.csproj.AssemblyReference.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Repositories\obj\Debug\net8.0\FUCourseManagementSystem.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Repositories\obj\Debug\net8.0\FUCourseManagementSystem.Repositories.AssemblyInfoInputs.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Repositories\obj\Debug\net8.0\FUCourseManagementSystem.Repositories.AssemblyInfo.cs
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Repositories\obj\Debug\net8.0\FUCourseManagementSystem.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Repositories\obj\Debug\net8.0\FUCourseManagementSystem.Repositories.sourcelink.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Repositories\obj\Debug\net8.0\FUCourse.0E4C49B7.Up2Date
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Repositories\obj\Debug\net8.0\FUCourseManagementSystem.Repositories.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Repositories\obj\Debug\net8.0\refint\FUCourseManagementSystem.Repositories.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Repositories\obj\Debug\net8.0\FUCourseManagementSystem.Repositories.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Repositories\obj\Debug\net8.0\ref\FUCourseManagementSystem.Repositories.dll

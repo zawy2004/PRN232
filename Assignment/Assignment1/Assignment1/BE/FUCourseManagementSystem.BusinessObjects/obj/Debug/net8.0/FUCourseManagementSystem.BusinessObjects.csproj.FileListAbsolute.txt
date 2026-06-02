@@ -1,0 +1,23 @@
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.BusinessObjects\bin\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.deps.json
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.BusinessObjects\bin\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.dll
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.BusinessObjects\bin\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.pdb
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.BusinessObjects\obj\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.BusinessObjects\obj\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.AssemblyInfoInputs.cache
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.BusinessObjects\obj\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.AssemblyInfo.cs
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.BusinessObjects\obj\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.csproj.CoreCompileInputs.cache
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.BusinessObjects\obj\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.dll
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.BusinessObjects\obj\Debug\net8.0\refint\FUCourseManagementSystem.BusinessObjects.dll
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.BusinessObjects\obj\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.pdb
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.BusinessObjects\obj\Debug\net8.0\ref\FUCourseManagementSystem.BusinessObjects.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.BusinessObjects\bin\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.deps.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.BusinessObjects\bin\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.BusinessObjects\bin\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.BusinessObjects\obj\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.BusinessObjects\obj\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.AssemblyInfoInputs.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.BusinessObjects\obj\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.AssemblyInfo.cs
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.BusinessObjects\obj\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.BusinessObjects\obj\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.sourcelink.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.BusinessObjects\obj\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.BusinessObjects\obj\Debug\net8.0\refint\FUCourseManagementSystem.BusinessObjects.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.BusinessObjects\obj\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.BusinessObjects\obj\Debug\net8.0\ref\FUCourseManagementSystem.BusinessObjects.dll

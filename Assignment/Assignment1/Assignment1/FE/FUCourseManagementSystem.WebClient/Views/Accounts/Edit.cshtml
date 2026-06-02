@@ -1,0 +1,51 @@
+@model FUCourseManagementSystem.WebClient.Models.SystemAccountViewModel
+@{
+    ViewData["Title"] = "Edit Account";
+}
+
+<div class="modal fade show d-block" tabindex="-1" style="background:rgba(0,0,0,.5)">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <form asp-action="Edit" method="post">
+                <div class="modal-header"><h5>Edit Account — @Model.AccountEmail</h5></div>
+                <div class="modal-body">
+                    <input type="hidden" asp-for="AccountID" />
+                    <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+                    <div class="mb-3">
+                        <label asp-for="AccountName" class="form-label"></label>
+                        <input asp-for="AccountName" class="form-control" />
+                        <span asp-validation-for="AccountName" class="text-danger"></span>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="AccountEmail" class="form-label"></label>
+                        <input asp-for="AccountEmail" type="email" class="form-control" />
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="AccountPassword" class="form-label">New Password (leave blank to keep)</label>
+                        <input asp-for="AccountPassword" type="password" class="form-control" />
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="AccountRole" class="form-label">Role</label>
+                        <select asp-for="AccountRole" class="form-select">
+                            <option value="1">Lecturer</option>
+                            <option value="2">Student</option>
+                            <option value="3">Academic Staff</option>
+                        </select>
+                    </div>
+                    <div class="form-check">
+                        <input asp-for="IsActive" class="form-check-input" type="checkbox" />
+                        <label asp-for="IsActive" class="form-check-label">Active</label>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+                    <button type="submit" class="btn btn-warning">Save Changes</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

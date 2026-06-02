@@ -1,0 +1,50 @@
+@model IEnumerable<FUCourseManagementSystem.WebClient.Models.EnrollmentViewModel>
+@{
+    ViewData["Title"] = "My Enrollments";
+    string StatusBadge(string s) => s switch {
+        "Approved"  => "bg-success",
+        "Rejected"  => "bg-danger",
+        "Cancelled" => "bg-secondary",
+        _           => "bg-warning text-dark"
+    };
+}
+
+<h2>My Enrollments</h2>
+
+<table class="table table-hover table-bordered">
+    <thead class="table-primary">
+        <tr>
+            <th>#</th>
+            <th>Class Code</th>
+            <th>Course</th>
+            <th>Enrolled Date</th>
+            <th>Status</th>
+            <th>Note</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{ int i = 1; }
+        @foreach (var e in Model)
+        {
+            <tr>
+                <td>@i++</td>
+                <td>@e.ClassCode</td>
+                <td>@e.CourseName</td>
+                <td>@e.EnrolledDate.ToString("dd/MM/yyyy")</td>
+                <td><span class="badge @StatusBadge(e.EnrollmentStatus)">@e.EnrollmentStatus</span></td>
+                <td>@e.Note</td>
+                <td>
+                    @if (e.EnrollmentStatus == "Pending")
+                    {
+                        <form method="post" asp-action="Cancel" asp-route-id="@e.EnrollmentID"
+                              onsubmit="return confirm('Cancel this enrollment?')">
+                            @Html.AntiForgeryToken()
+                            <button type="submit" class="btn btn-sm btn-warning">Cancel</button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

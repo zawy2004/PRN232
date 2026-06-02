@@ -1,0 +1,60 @@
+@model FUCourseManagementSystem.WebClient.Models.LoginViewModel
+@{
+    ViewData["Title"] = "Login";
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login - FU Course Management</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+<div class="auth-page">
+    <div class="auth-shell">
+        <div class="auth-hero d-flex flex-column justify-content-between">
+            <div>
+                <span class="badge rounded-pill mb-3 px-3 py-2">FU Course Management</span>
+                <h1 class="display-6 fw-bold mb-3">A cleaner way to manage the academic workflow.</h1>
+                <p class="lead mb-0" style="max-width: 34rem;">
+                    Sign in to access courses, classes, enrollments, and account management with a calmer, more polished interface.
+                </p>
+            </div>
+            <div class="mt-4 small text-white-50">
+                Built for clarity, speed, and day-to-day use.
+            </div>
+        </div>
+
+        <div class="auth-panel">
+            <div class="mb-4">
+                <div class="page-kicker mb-2">Welcome back</div>
+                <h2 class="h3 fw-bold mb-2">Sign in</h2>
+                <p class="text-secondary mb-0">Use your account to continue.</p>
+            </div>
+
+            <form asp-action="Login" method="post">
+                <div asp-validation-summary="All" class="alert alert-danger d-none" id="valSummary"></div>
+                <div class="mb-3">
+                    <label asp-for="Email" class="form-label"></label>
+                    <input asp-for="Email" class="form-control" placeholder="Enter email" />
+                    <span asp-validation-for="Email" class="text-danger small"></span>
+                </div>
+                <div class="mb-4">
+                    <label asp-for="Password" class="form-label"></label>
+                    <input asp-for="Password" type="password" class="form-control" placeholder="Enter password" />
+                    <span asp-validation-for="Password" class="text-danger small"></span>
+                </div>
+                <button type="submit" class="btn btn-primary w-100 py-2">Login</button>
+            </form>
+        </div>
+    </div>
+</div>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+</body>
+</html>
