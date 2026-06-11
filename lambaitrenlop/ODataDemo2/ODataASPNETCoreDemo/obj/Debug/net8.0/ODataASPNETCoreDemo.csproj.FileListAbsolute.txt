@@ -1,0 +1,169 @@
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\obj\Debug\net8.0\ODataASPNETCoreDemo.csproj.AssemblyReference.cache
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\obj\Debug\net8.0\ODataASPNETCoreDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\obj\Debug\net8.0\ODataASPNETCoreDemo.AssemblyInfoInputs.cache
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\obj\Debug\net8.0\ODataASPNETCoreDemo.AssemblyInfo.cs
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\obj\Debug\net8.0\ODataASPNETCoreDemo.csproj.CoreCompileInputs.cache
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\obj\Debug\net8.0\ODataASPNETCoreDemo.MvcApplicationPartsAssemblyInfo.cs
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\obj\Debug\net8.0\ODataASPNETCoreDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\appsettings.Development.json
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\appsettings.json
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\ODataASPNETCoreDemo.staticwebassets.endpoints.json
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\ODataASPNETCoreDemo.exe
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\ODataASPNETCoreDemo.deps.json
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\ODataASPNETCoreDemo.runtimeconfig.json
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\ODataASPNETCoreDemo.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\ODataASPNETCoreDemo.pdb
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Azure.Core.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Azure.Identity.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.AspNetCore.OData.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.OData.Core.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.OData.Edm.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.OData.ModelBuilder.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Spatial.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\System.ClientModel.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\System.Memory.Data.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\obj\Debug\net8.0\scopedcss\bundle\ODataASPNETCoreDemo.styles.css
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\obj\Debug\net8.0\staticwebassets.build.json
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\obj\Debug\net8.0\staticwebassets.development.json
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\obj\Debug\net8.0\ODataASP.AB2FEEFA.Up2Date
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\obj\Debug\net8.0\ODataASPNETCoreDemo.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\obj\Debug\net8.0\refint\ODataASPNETCoreDemo.dll
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\obj\Debug\net8.0\ODataASPNETCoreDemo.pdb
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\obj\Debug\net8.0\ODataASPNETCoreDemo.genruntimeconfig.cache
+D:\FPTU2026\PRN232\demoOData\ODataASPNETCoreDemo\obj\Debug\net8.0\ref\ODataASPNETCoreDemo.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\ODataASPNETCoreDemo.staticwebassets.endpoints.json
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\appsettings.json
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\ODataASPNETCoreDemo.exe
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\ODataASPNETCoreDemo.deps.json
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\ODataASPNETCoreDemo.runtimeconfig.json
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\ODataASPNETCoreDemo.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\ODataASPNETCoreDemo.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.AspNetCore.OData.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.OData.Core.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.OData.Edm.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.OData.ModelBuilder.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Spatial.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\obj\Debug\net8.0\ODataASPNETCoreDemo.csproj.AssemblyReference.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\obj\Debug\net8.0\ODataASPNETCoreDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\obj\Debug\net8.0\ODataASPNETCoreDemo.AssemblyInfoInputs.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\obj\Debug\net8.0\ODataASPNETCoreDemo.AssemblyInfo.cs
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\obj\Debug\net8.0\ODataASPNETCoreDemo.csproj.CoreCompileInputs.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\obj\Debug\net8.0\ODataASPNETCoreDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\obj\Debug\net8.0\ODataASPNETCoreDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\obj\Debug\net8.0\ODataASPNETCoreDemo.sourcelink.json
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\obj\Debug\net8.0\scopedcss\bundle\ODataASPNETCoreDemo.styles.css
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\obj\Debug\net8.0\ODataASP.AB2FEEFA.Up2Date
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\obj\Debug\net8.0\ODataASPNETCoreDemo.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\obj\Debug\net8.0\refint\ODataASPNETCoreDemo.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\obj\Debug\net8.0\ODataASPNETCoreDemo.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\obj\Debug\net8.0\ODataASPNETCoreDemo.genruntimeconfig.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\ODataDemo2\ODataASPNETCoreDemo\obj\Debug\net8.0\ref\ODataASPNETCoreDemo.dll
