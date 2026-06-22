@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\ODataDemo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7475B981-A62F-4496-862B-6E1E984DEA2C}|ODataDemo2\\ODataDemo2.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\lambaitrenlop\\odatademo2\\odatademo2\\odatademo2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7475B981-A62F-4496-862B-6E1E984DEA2C}|ODataDemo2\\ODataDemo2.csproj|solutionrelative:odatademo2\\odatademo2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7475B981-A62F-4496-862B-6E1E984DEA2C}|ODataDemo2\\ODataDemo2.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\lambaitrenlop\\odatademo2\\odatademo2\\controllers\\pressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7475B981-A62F-4496-862B-6E1E984DEA2C}|ODataDemo2\\ODataDemo2.csproj|solutionrelative:odatademo2\\controllers\\pressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7475B981-A62F-4496-862B-6E1E984DEA2C}|ODataDemo2\\ODataDemo2.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\lambaitrenlop\\odatademo2\\odatademo2\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7475B981-A62F-4496-862B-6E1E984DEA2C}|ODataDemo2\\ODataDemo2.csproj|solutionrelative:odatademo2\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ODataDemo2",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\ODataDemo2\\ODataDemo2\\ODataDemo2.csproj",
+              "RelativeDocumentMoniker": "ODataDemo2\\ODataDemo2.csproj",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\ODataDemo2\\ODataDemo2\\ODataDemo2.csproj",
+              "RelativeToolTip": "ODataDemo2\\ODataDemo2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-08T04:15:25.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PressesController.cs",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\ODataDemo2\\ODataDemo2\\Controllers\\PressesController.cs",
+              "RelativeDocumentMoniker": "ODataDemo2\\Controllers\\PressesController.cs",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\ODataDemo2\\ODataDemo2\\Controllers\\PressesController.cs",
+              "RelativeToolTip": "ODataDemo2\\Controllers\\PressesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T03:13:35.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\ODataDemo2\\ODataDemo2\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "ODataDemo2\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\ODataDemo2\\ODataDemo2\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "ODataDemo2\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T03:13:33.718Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+@model IEnumerable<FUCourseManagementSystem.WebClient.Models.SystemAccountViewModel>
+@{
+    ViewData["Title"] = "Account Management";
+    var roleNames = new Dictionary<int, string> { { 1, "Lecturer" }, { 2, "Student" }, { 3, "Academic Staff" } };
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h2>Account Management</h2>
+    <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#createModal">+ New Account</button>
+</div>
+
+<form method="get" class="row g-2 mb-3">
+    <div class="col-md-4">
+        <input type="text" name="search" value="@ViewBag.Search" class="form-control" placeholder="Search by name or email..." />
+    </div>
+    <div class="col-auto">
+        <button type="submit" class="btn btn-outline-primary">Search</button>
+        <a asp-action="Index" class="btn btn-outline-secondary">Clear</a>
+    </div>
+</form>
+
+<table class="table table-hover table-bordered">
+    <thead class="table-primary">
+        <tr><th>#</th><th>Name</th><th>Email</th><th>Role</th><th>Active</th><th>Actions</th></tr>
+    </thead>
+    <tbody>
+        @{ int i = 1; }
+        @foreach (var a in Model)
+        {
+            <tr>
+                <td>@i++</td>
+                <td>@a.AccountName</td>
+                <td>@a.AccountEmail</td>
+                <td>@(roleNames.TryGetValue(a.AccountRole, out var r) ? r : "Unknown")</td>
+                <td><span class="badge @(a.IsActive ? "bg-success" : "bg-secondary")">@(a.IsActive ? "Active" : "Inactive")</span></td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@a.AccountID" class="btn btn-sm btn-warning">Edit</a>
+                    <button class="btn btn-sm btn-danger" onclick="confirmDelete(@a.AccountID, '@a.AccountName')">Delete</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Create Modal -->
+<div class="modal fade" id="createModal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <form asp-action="Create" method="post">
+                <div class="modal-header"><h5>New Account</h5><button type="button" class="btn-close" data-bs-dismiss="modal"></button></div>
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <label class="form-label">Full Name *</label>
+                        <input name="AccountName" class="form-control" required />
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Email *</label>
+                        <input name="AccountEmail" type="email" class="form-control" required />
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Password *</label>
+                        <input name="AccountPassword" type="password" class="form-control" required />
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Role *</label>
+                        <select name="AccountRole" class="form-select">
+                            <option value="1">Lecturer</option>
+                            <option value="2">Student</option>
+                            <option value="3">Academic Staff</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                    <button type="submit" class="btn btn-primary">Create</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<form id="deleteForm" method="post">@Html.AntiForgeryToken()</form>
+
+@section Scripts {
+<script>
+function confirmDelete(id, name) {
+    if (!confirm('Delete account "' + name + '"?')) return;
+    var form = document.getElementById('deleteForm');
+    form.action = '/Accounts/Delete/' + id;
+    form.submit();
+}
+</script>
+}

@@ -1,0 +1,138 @@
+@using FUNewsManagement.Web.Models.Dtos
+@model List<CategoryDto>
+@{
+    ViewData["Title"] = "Categories";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h1>Categories</h1>
+    <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#createModal">+ New Category</button>
+</div>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Parent</th>
+            <th>Active</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var category in Model)
+        {
+            var parentName = Model.FirstOrDefault(c => c.CategoryId == category.ParentCategoryId)?.CategoryName ?? "-";
+            <tr>
+                <td>@category.CategoryName</td>
+                <td>@parentName</td>
+                <td>@(category.IsActive ? "Yes" : "No")</td>
+                <td class="text-end">
+                    <button class="btn btn-sm btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#editModal-@category.CategoryId">Edit</button>
+                    <button class="btn btn-sm btn-outline-danger" data-bs-toggle="modal" data-bs-target="#deleteModal-@category.CategoryId">Delete</button>
+                </td>
+            </tr>
+
+            <div class="modal fade" id="editModal-@category.CategoryId" tabindex="-1">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <form asp-controller="Category" asp-action="Edit" asp-route-id="@category.CategoryId" method="post">
+                            <div class="modal-header">
+                                <h5 class="modal-title">Edit Category</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                            </div>
+                            <div class="modal-body">
+                                <div class="mb-3">
+                                    <label class="form-label">Name</label>
+                                    <input name="CategoryName" value="@category.CategoryName" class="form-control" required />
+                                </div>
+                                <div class="mb-3">
+                                    <label class="form-label">Description</label>
+                                    <textarea name="CategoryDescription" class="form-control" required>@category.CategoryDescription</textarea>
+                                </div>
+                                <div class="mb-3">
+                                    <label class="form-label">Parent Category</label>
+                                    <select name="ParentCategoryId" class="form-select">
+                                        <option value="">-- None (root) --</option>
+                                        @foreach (var parent in Model.Where(c => c.CategoryId != category.CategoryId))
+                                        {
+                                            <option value="@parent.CategoryId" selected="@(parent.CategoryId == category.ParentCategoryId)">@parent.CategoryName</option>
+                                        }
+                                    </select>
+                                </div>
+                                <div class="form-check mb-3">
+                                    <input type="checkbox" name="IsActive" value="true" class="form-check-input" checked="@category.IsActive" />
+                                    <label class="form-check-label">Active</label>
+                                </div>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                                <button type="submit" class="btn btn-primary">Save</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal fade" id="deleteModal-@category.CategoryId" tabindex="-1">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <form asp-controller="Category" asp-action="Delete" asp-route-id="@category.CategoryId" method="post">
+                            <div class="modal-header">
+                                <h5 class="modal-title">Delete Category</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                            </div>
+                            <div class="modal-body">
+                                Delete category <strong>@category.CategoryName</strong>? This cannot be undone.
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                                <button type="submit" class="btn btn-danger">Delete</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        }
+    </tbody>
+</table>
+
+<div class="modal fade" id="createModal" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <form asp-controller="Category" asp-action="Create" method="post">
+                <div class="modal-header">
+                    <h5 class="modal-title">New Category</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <label class="form-label">Name</label>
+                        <input name="CategoryName" class="form-control" required />
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Description</label>
+                        <textarea name="CategoryDescription" class="form-control" required></textarea>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Parent Category</label>
+                        <select name="ParentCategoryId" class="form-select">
+                            <option value="">-- None (root) --</option>
+                            @foreach (var parent in Model)
+                            {
+                                <option value="@parent.CategoryId">@parent.CategoryName</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="form-check mb-3">
+                        <input type="checkbox" name="IsActive" value="true" class="form-check-input" checked />
+                        <label class="form-check-label">Active</label>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                    <button type="submit" class="btn btn-primary">Create</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

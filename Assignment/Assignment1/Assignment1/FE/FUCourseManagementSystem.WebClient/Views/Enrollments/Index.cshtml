@@ -1,0 +1,103 @@
+@model IEnumerable<FUCourseManagementSystem.WebClient.Models.EnrollmentViewModel>
+@{
+    ViewData["Title"] = "Enrollment Management";
+    string StatusBadge(string s) => s switch {
+        "Approved"  => "bg-success",
+        "Rejected"  => "bg-danger",
+        "Cancelled" => "bg-secondary",
+        _           => "bg-warning text-dark"
+    };
+}
+
+<h2>Enrollment Management</h2>
+
+<table class="table table-hover table-bordered">
+    <thead class="table-primary">
+        <tr>
+            <th>#</th>
+            <th>Student</th>
+            <th>Class Code</th>
+            <th>Course</th>
+            <th>Enrolled Date</th>
+            <th>Status</th>
+            <th>Note</th>
+            @if (User.IsInRole("Admin") || User.IsInRole("AcademicStaff"))
+            {
+                <th>Actions</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @{ int i = 1; }
+        @foreach (var e in Model)
+        {
+            <tr>
+                <td>@i++</td>
+                <td>@e.StudentName</td>
+                <td>@e.ClassCode</td>
+                <td>@e.CourseName</td>
+                <td>@e.EnrolledDate.ToString("dd/MM/yyyy")</td>
+                <td><span class="badge @StatusBadge(e.EnrollmentStatus)">@e.EnrollmentStatus</span></td>
+                <td>@e.Note</td>
+                @if (User.IsInRole("Admin") || User.IsInRole("AcademicStaff"))
+                {
+                    <td>
+                        @if (e.EnrollmentStatus == "Pending")
+                        {
+                            <button class="btn btn-sm btn-success" onclick="updateStatus(@e.EnrollmentID, 1, null)">Approve</button>
+                            <button class="btn btn-sm btn-danger" onclick="showRejectModal(@e.EnrollmentID)">Reject</button>
+                        }
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (User.IsInRole("Admin") || User.IsInRole("AcademicStaff"))
+{
+    <div class="modal fade" id="rejectModal" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header"><h5>Reject Enrollment</h5></div>
+                <div class="modal-body">
+                    <label class="form-label">Rejection Reason *</label>
+                    <textarea id="rejectNote" class="form-control" rows="3" required></textarea>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                    <button class="btn btn-danger" onclick="submitReject()">Reject</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <form id="statusForm" method="post">
+        @Html.AntiForgeryToken()
+        <input type="hidden" name="status" id="statusVal" />
+        <input type="hidden" name="note" id="noteVal" />
+    </form>
+}
+
+@section Scripts {
+<script>
+var currentId = 0;
+function updateStatus(id, status, note) {
+    var form = document.getElementById('statusForm');
+    form.action = '/Enrollments/UpdateStatus/' + id;
+    document.getElementById('statusVal').value = status;
+    document.getElementById('noteVal').value = note || '';
+    form.submit();
+}
+function showRejectModal(id) {
+    currentId = id;
+    document.getElementById('rejectNote').value = '';
+    new bootstrap.Modal(document.getElementById('rejectModal')).show();
+}
+function submitReject() {
+    var note = document.getElementById('rejectNote').value.trim();
+    if (!note) { alert('Please enter a rejection reason.'); return; }
+    updateStatus(currentId, 2, note);
+}
+</script>
+}

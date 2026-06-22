@@ -1,0 +1,43 @@
+@using FUNewsManagement.Web.Models.Dtos
+@model CategoryTreeDto
+@{
+    var isTopLevel = ViewData["IsTopLevel"] as bool? ?? false;
+    var liClass = isTopLevel ? "nav-item dropdown" : "dropdown-submenu";
+    var linkClass = isTopLevel ? "nav-link dropdown-toggle" : "dropdown-item dropdown-toggle";
+}
+@if (Model.Children.Any())
+{
+    <li class="@liClass">
+        @* Chỉ cấp 1 (top-level) để Bootstrap tự quản lý qua data-bs-toggle; submenu lồng bên trong
+           để site.js tự xử lý toggle .show - gắn cả 2 cơ chế lên cùng 1 thẻ làm chúng giành nhau,
+           khiến submenu mở rồi tự đóng ngay (không xổ ra ổn định). *@
+        @if (isTopLevel)
+        {
+            <a class="@linkClass" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">@Model.CategoryName</a>
+        }
+        else
+        {
+            <a class="@linkClass" href="#" role="button" aria-expanded="false">@Model.CategoryName</a>
+        }
+        <ul class="dropdown-menu">
+            <li><a class="dropdown-item" asp-controller="Home" asp-action="Index" asp-route-categoryId="@Model.CategoryId">All @Model.CategoryName</a></li>
+            <li><hr class="dropdown-divider"></li>
+            @foreach (var child in Model.Children)
+            {
+                @await Html.PartialAsync("_CategoryMenuNode", child, new ViewDataDictionary(ViewData) { ["IsTopLevel"] = false })
+            }
+        </ul>
+    </li>
+}
+else if (isTopLevel)
+{
+    <li class="nav-item">
+        <a class="nav-link" asp-controller="Home" asp-action="Index" asp-route-categoryId="@Model.CategoryId">@Model.CategoryName</a>
+    </li>
+}
+else
+{
+    <li>
+        <a class="dropdown-item" asp-controller="Home" asp-action="Index" asp-route-categoryId="@Model.CategoryId">@Model.CategoryName</a>
+    </li>
+}

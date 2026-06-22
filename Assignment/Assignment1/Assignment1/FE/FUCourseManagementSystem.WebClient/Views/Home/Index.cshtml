@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<section class="page-hero">
+    <div class="row align-items-center g-4 position-relative">
+        <div class="col-lg-7">
+            <div class="page-kicker mb-3">FU Course Management System</div>
+            <h1 class="display-5 fw-bold mb-3">Manage courses, classes, and enrollments in one clean workspace.</h1>
+            <p class="lead text-secondary mb-4">
+                A focused dashboard for course operations, built to be fast on desktop and readable on mobile.
+            </p>
+            <div class="d-flex flex-wrap gap-2">
+                <a asp-controller="Courses" asp-action="Index" class="btn btn-primary btn-lg">Browse Courses</a>
+                <a asp-controller="ClassSections" asp-action="Index" class="btn btn-outline-primary btn-lg">View Classes</a>
+            </div>
+        </div>
+        <div class="col-lg-5">
+            <div class="content-panel p-4">
+                <h2 class="h5 fw-bold mb-3">Quick Snapshot</h2>
+                <div class="hero-stats">
+                    <div class="stat-card">
+                        <div class="stat-value">24/7</div>
+                        <div class="stat-label">Accessible dashboard</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-value">Fast</div>
+                        <div class="stat-label">Streamlined navigation</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-value">Clean</div>
+                        <div class="stat-label">Modern responsive UI</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

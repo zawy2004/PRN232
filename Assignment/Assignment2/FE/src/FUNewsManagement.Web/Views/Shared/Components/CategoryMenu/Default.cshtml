@@ -1,0 +1,12 @@
+@using FUNewsManagement.Web.Models.Dtos
+@model List<CategoryTreeDto>
+
+<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+    <li class="nav-item">
+        <a class="nav-link" asp-controller="Home" asp-action="Index">All News</a>
+    </li>
+    @foreach (var node in Model)
+    {
+        @await Html.PartialAsync("_CategoryMenuNode", node, new ViewDataDictionary(ViewData) { ["IsTopLevel"] = true })
+    }
+</ul>

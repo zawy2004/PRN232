@@ -1,0 +1,75 @@
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\appsettings.Development.json
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\appsettings.json
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\FUCourseManagementSystem.WebClient.staticwebassets.runtime.json
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\FUCourseManagementSystem.WebClient.staticwebassets.endpoints.json
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\FUCourseManagementSystem.WebClient.exe
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\FUCourseManagementSystem.WebClient.deps.json
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\FUCourseManagementSystem.WebClient.runtimeconfig.json
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\FUCourseManagementSystem.WebClient.dll
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\FUCourseManagementSystem.WebClient.pdb
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\FUCourseManagementSystem.WebClient.csproj.AssemblyReference.cache
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\FUCourseManagementSystem.WebClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\FUCourseManagementSystem.WebClient.AssemblyInfoInputs.cache
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\FUCourseManagementSystem.WebClient.AssemblyInfo.cs
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\FUCourseManagementSystem.WebClient.csproj.CoreCompileInputs.cache
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\FUCourseManagementSystem.WebClient.MvcApplicationPartsAssemblyInfo.cache
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\FUCourseManagementSystem.WebClient.RazorAssemblyInfo.cache
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\FUCourseManagementSystem.WebClient.RazorAssemblyInfo.cs
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\scopedcss\bundle\FUCourseManagementSystem.WebClient.styles.css
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\scopedcss\projectbundle\FUCourseManagementSystem.WebClient.bundle.scp.css
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\staticwebassets.build.json
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\staticwebassets.development.json
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\FUCourse.B8FFA6C3.Up2Date
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\FUCourseManagementSystem.WebClient.dll
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\refint\FUCourseManagementSystem.WebClient.dll
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\FUCourseManagementSystem.WebClient.pdb
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\FUCourseManagementSystem.WebClient.genruntimeconfig.cache
+D:\FPTU2026\PRN232\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\ref\FUCourseManagementSystem.WebClient.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\appsettings.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\FUCourseManagementSystem.WebClient.staticwebassets.runtime.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\FUCourseManagementSystem.WebClient.staticwebassets.endpoints.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\FUCourseManagementSystem.WebClient.exe
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\FUCourseManagementSystem.WebClient.deps.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\FUCourseManagementSystem.WebClient.runtimeconfig.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\FUCourseManagementSystem.WebClient.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\bin\Debug\net8.0\FUCourseManagementSystem.WebClient.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\FUCourseManagementSystem.WebClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\FUCourseManagementSystem.WebClient.AssemblyInfoInputs.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\FUCourseManagementSystem.WebClient.AssemblyInfo.cs
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\FUCourseManagementSystem.WebClient.csproj.CoreCompileInputs.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\FUCourseManagementSystem.WebClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\FUCourseManagementSystem.WebClient.RazorAssemblyInfo.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\FUCourseManagementSystem.WebClient.RazorAssemblyInfo.cs
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\FUCourseManagementSystem.WebClient.sourcelink.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\scopedcss\bundle\FUCourseManagementSystem.WebClient.styles.css
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\scopedcss\projectbundle\FUCourseManagementSystem.WebClient.bundle.scp.css
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\FUCourseManagementSystem.WebClient.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\refint\FUCourseManagementSystem.WebClient.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\FUCourseManagementSystem.WebClient.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\FUCourseManagementSystem.WebClient.genruntimeconfig.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\FE\FUCourseManagementSystem.WebClient\obj\Debug\net8.0\ref\FUCourseManagementSystem.WebClient.dll

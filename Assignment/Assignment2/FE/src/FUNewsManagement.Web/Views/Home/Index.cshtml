@@ -1,0 +1,50 @@
+@using Microsoft.AspNetCore.Mvc.Rendering
+@model FUNewsManagement.Web.Models.ViewModels.NewsListViewModel
+@{
+    ViewData["Title"] = "News";
+}
+
+<h1 class="mb-3">News</h1>
+
+<form method="get" asp-controller="Home" asp-action="Index" class="row g-2 mb-4">
+    <div class="col-md-6">
+        <input type="text" name="keyword" value="@Model.Keyword" class="form-control" placeholder="Search by title, headline or SEO tag..." />
+    </div>
+    <div class="col-md-4">
+        <select name="tagId" class="form-select" asp-items="@(new SelectList(Model.AllTags, "TagId", "TagName", Model.TagId))">
+            <option value="">-- Any tag --</option>
+        </select>
+    </div>
+    <div class="col-md-2">
+        <button type="submit" class="btn btn-primary w-100">Search</button>
+    </div>
+</form>
+
+@if (!Model.News.Any())
+{
+    <p class="text-muted">No news found.</p>
+}
+else
+{
+    <div class="row">
+        @foreach (var news in Model.News)
+        {
+            <div class="col-md-6 mb-4">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">@news.Headline</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">@news.CategoryName &middot; @news.CreatedDate?.ToLocalTime().ToString("g")</h6>
+                        @foreach (var tag in news.Tags)
+                        {
+                            <span class="badge bg-secondary me-1">@tag.TagName</span>
+                        }
+                        <p class="card-text mt-2">
+                            @(news.NewsTitle != null && news.NewsTitle.Length > 150 ? news.NewsTitle.Substring(0, 150) + "..." : news.NewsTitle)
+                        </p>
+                        <a asp-controller="Home" asp-action="Details" asp-route-id="@news.NewsArticleId" class="btn btn-outline-primary btn-sm">Read more</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}

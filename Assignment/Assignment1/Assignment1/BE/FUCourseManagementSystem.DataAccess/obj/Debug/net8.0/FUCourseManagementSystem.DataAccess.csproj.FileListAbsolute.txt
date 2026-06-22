@@ -1,0 +1,35 @@
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.DataAccess\bin\Debug\net8.0\FUCourseManagementSystem.DataAccess.deps.json
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.DataAccess\bin\Debug\net8.0\FUCourseManagementSystem.DataAccess.runtimeconfig.json
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.DataAccess\bin\Debug\net8.0\FUCourseManagementSystem.DataAccess.dll
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.DataAccess\bin\Debug\net8.0\FUCourseManagementSystem.DataAccess.pdb
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.DataAccess\bin\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.dll
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.DataAccess\bin\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.pdb
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.DataAccess\obj\Debug\net8.0\FUCourseManagementSystem.DataAccess.csproj.AssemblyReference.cache
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.DataAccess\obj\Debug\net8.0\FUCourseManagementSystem.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.DataAccess\obj\Debug\net8.0\FUCourseManagementSystem.DataAccess.AssemblyInfoInputs.cache
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.DataAccess\obj\Debug\net8.0\FUCourseManagementSystem.DataAccess.AssemblyInfo.cs
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.DataAccess\obj\Debug\net8.0\FUCourseManagementSystem.DataAccess.csproj.CoreCompileInputs.cache
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.DataAccess\obj\Debug\net8.0\FUCourse.E1CDAB41.Up2Date
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.DataAccess\obj\Debug\net8.0\FUCourseManagementSystem.DataAccess.dll
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.DataAccess\obj\Debug\net8.0\refint\FUCourseManagementSystem.DataAccess.dll
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.DataAccess\obj\Debug\net8.0\FUCourseManagementSystem.DataAccess.pdb
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.DataAccess\obj\Debug\net8.0\FUCourseManagementSystem.DataAccess.genruntimeconfig.cache
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.DataAccess\obj\Debug\net8.0\ref\FUCourseManagementSystem.DataAccess.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.DataAccess\bin\Debug\net8.0\FUCourseManagementSystem.DataAccess.deps.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.DataAccess\bin\Debug\net8.0\FUCourseManagementSystem.DataAccess.runtimeconfig.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.DataAccess\bin\Debug\net8.0\FUCourseManagementSystem.DataAccess.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.DataAccess\bin\Debug\net8.0\FUCourseManagementSystem.DataAccess.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.DataAccess\bin\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.DataAccess\bin\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.DataAccess\obj\Debug\net8.0\FUCourseManagementSystem.DataAccess.csproj.AssemblyReference.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.DataAccess\obj\Debug\net8.0\FUCourseManagementSystem.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.DataAccess\obj\Debug\net8.0\FUCourseManagementSystem.DataAccess.AssemblyInfoInputs.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.DataAccess\obj\Debug\net8.0\FUCourseManagementSystem.DataAccess.AssemblyInfo.cs
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.DataAccess\obj\Debug\net8.0\FUCourseManagementSystem.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.DataAccess\obj\Debug\net8.0\FUCourseManagementSystem.DataAccess.sourcelink.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.DataAccess\obj\Debug\net8.0\FUCourse.E1CDAB41.Up2Date
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.DataAccess\obj\Debug\net8.0\FUCourseManagementSystem.DataAccess.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.DataAccess\obj\Debug\net8.0\refint\FUCourseManagementSystem.DataAccess.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.DataAccess\obj\Debug\net8.0\FUCourseManagementSystem.DataAccess.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.DataAccess\obj\Debug\net8.0\FUCourseManagementSystem.DataAccess.genruntimeconfig.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.DataAccess\obj\Debug\net8.0\ref\FUCourseManagementSystem.DataAccess.dll

@@ -1,0 +1,24 @@
+@ODataASPNETCoreDemo_HostAddress = http://localhost:5069
+
+GET {{ODataASPNETCoreDemo_HostAddress}}/gadget/Get
+Accept: application/json
+
+###
+
+GET {{ODataASPNETCoreDemo_HostAddress}}/gadget/Get?$select=ProductName,Cost
+Accept: application/json
+
+###
+
+GET {{ODataASPNETCoreDemo_HostAddress}}/gadget/Get?$filter=ProductName eq 'Samsung Galaxy'
+Accept: application/json
+
+###
+
+GET {{ODataASPNETCoreDemo_HostAddress}}/odata/GadgetsOdata?$count=true
+Accept: application/json
+
+###
+
+GET {{ODataASPNETCoreDemo_HostAddress}}/odata/$metadata
+Accept: application/xml

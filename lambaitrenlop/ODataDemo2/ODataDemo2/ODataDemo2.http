@@ -1,0 +1,34 @@
+@ODataDemo2_HostAddress = https://localhost:7130
+@ODataDemo2_HttpAddress = http://localhost:5135
+
+### Get all Books (OData)
+GET {{ODataDemo2_HttpAddress}}/odata/Books
+
+### Get single Book by key
+GET {{ODataDemo2_HttpAddress}}/odata/Books(1)
+
+### Get Books with OData query options
+GET {{ODataDemo2_HttpAddress}}/odata/Books?$filter=Price gt 50&$select=Title,Price
+
+### Get all Presses
+GET {{ODataDemo2_HttpAddress}}/odata/Presses
+
+### Create a new Book
+POST {{ODataDemo2_HttpAddress}}/odata/Books
+Content-Type: application/json
+
+{
+  "ISBN": "978-0-321-87758-2",
+  "Title": "New Book",
+  "Author": "John Doe",
+  "Price": 29.99,
+  "Location": {
+    "City": "Hanoi",
+    "Street": "Cau Giay"
+  },
+  "Press": {
+    "Id": 1,
+    "Name": "Addison-Wesley",
+    "Category": "Book"
+  }
+}

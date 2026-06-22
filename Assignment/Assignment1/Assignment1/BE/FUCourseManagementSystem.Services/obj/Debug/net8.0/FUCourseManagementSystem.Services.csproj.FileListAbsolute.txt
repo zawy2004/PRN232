@@ -1,0 +1,39 @@
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Services\bin\Debug\net8.0\FUCourseManagementSystem.Services.deps.json
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Services\bin\Debug\net8.0\FUCourseManagementSystem.Services.dll
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Services\bin\Debug\net8.0\FUCourseManagementSystem.Services.pdb
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Services\bin\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.dll
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Services\bin\Debug\net8.0\FUCourseManagementSystem.DataAccess.dll
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Services\bin\Debug\net8.0\FUCourseManagementSystem.Repositories.dll
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Services\bin\Debug\net8.0\FUCourseManagementSystem.Repositories.pdb
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Services\bin\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.pdb
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Services\bin\Debug\net8.0\FUCourseManagementSystem.DataAccess.pdb
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Services\obj\Debug\net8.0\FUCourseManagementSystem.Services.csproj.AssemblyReference.cache
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Services\obj\Debug\net8.0\FUCourseManagementSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Services\obj\Debug\net8.0\FUCourseManagementSystem.Services.AssemblyInfoInputs.cache
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Services\obj\Debug\net8.0\FUCourseManagementSystem.Services.AssemblyInfo.cs
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Services\obj\Debug\net8.0\FUCourseManagementSystem.Services.csproj.CoreCompileInputs.cache
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Services\obj\Debug\net8.0\FUCourse.9866558A.Up2Date
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Services\obj\Debug\net8.0\FUCourseManagementSystem.Services.dll
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Services\obj\Debug\net8.0\refint\FUCourseManagementSystem.Services.dll
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Services\obj\Debug\net8.0\FUCourseManagementSystem.Services.pdb
+D:\FPTU2026\PRN232\Assignment1\BE\FUCourseManagementSystem.Services\obj\Debug\net8.0\ref\FUCourseManagementSystem.Services.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Services\bin\Debug\net8.0\FUCourseManagementSystem.Services.deps.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Services\bin\Debug\net8.0\FUCourseManagementSystem.Services.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Services\bin\Debug\net8.0\FUCourseManagementSystem.Services.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Services\bin\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Services\bin\Debug\net8.0\FUCourseManagementSystem.DataAccess.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Services\bin\Debug\net8.0\FUCourseManagementSystem.Repositories.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Services\bin\Debug\net8.0\FUCourseManagementSystem.Repositories.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Services\bin\Debug\net8.0\FUCourseManagementSystem.BusinessObjects.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Services\bin\Debug\net8.0\FUCourseManagementSystem.DataAccess.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Services\obj\Debug\net8.0\FUCourseManagementSystem.Services.csproj.AssemblyReference.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Services\obj\Debug\net8.0\FUCourseManagementSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Services\obj\Debug\net8.0\FUCourseManagementSystem.Services.AssemblyInfoInputs.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Services\obj\Debug\net8.0\FUCourseManagementSystem.Services.AssemblyInfo.cs
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Services\obj\Debug\net8.0\FUCourseManagementSystem.Services.csproj.CoreCompileInputs.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Services\obj\Debug\net8.0\FUCourseManagementSystem.Services.sourcelink.json
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Services\obj\Debug\net8.0\FUCourse.9866558A.Up2Date
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Services\obj\Debug\net8.0\FUCourseManagementSystem.Services.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Services\obj\Debug\net8.0\refint\FUCourseManagementSystem.Services.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Services\obj\Debug\net8.0\FUCourseManagementSystem.Services.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\Assignment\Assignment1\Assignment1\BE\FUCourseManagementSystem.Services\obj\Debug\net8.0\ref\FUCourseManagementSystem.Services.dll

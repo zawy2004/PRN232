@@ -1,0 +1,46 @@
+@model FUNewsManagement.Web.Models.ViewModels.ReportViewModel
+@{
+    ViewData["Title"] = "News Report";
+}
+
+<h1 class="mb-3">News Report</h1>
+
+<form method="get" asp-controller="Report" asp-action="Index" class="row g-2 mb-4">
+    <div class="col-md-4">
+        <label class="form-label">Start Date</label>
+        <input type="date" name="startDate" value="@Model.StartDate.ToString("yyyy-MM-dd")" class="form-control" />
+    </div>
+    <div class="col-md-4">
+        <label class="form-label">End Date</label>
+        <input type="date" name="endDate" value="@Model.EndDate.ToString("yyyy-MM-dd")" class="form-control" />
+    </div>
+    <div class="col-md-2 d-flex align-items-end">
+        <button type="submit" class="btn btn-primary w-100">Run report</button>
+    </div>
+</form>
+
+<p class="text-muted">@Model.Items.Count article(s) created between @Model.StartDate.ToString("yyyy-MM-dd") and @Model.EndDate.ToString("yyyy-MM-dd"), sorted by newest first.</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Headline</th>
+            <th>Category</th>
+            <th>Created By</th>
+            <th>Created Date</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Items)
+        {
+            <tr>
+                <td>@item.NewsTitle</td>
+                <td>@item.CategoryName</td>
+                <td>@item.CreatedByName</td>
+                <td>@item.CreatedDate?.ToLocalTime().ToString("g")</td>
+                <td>@(item.NewsStatus ? "Active" : "Inactive")</td>
+            </tr>
+        }
+    </tbody>
+</table>
