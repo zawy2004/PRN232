@@ -1,0 +1,54 @@
+@using FUNewsManagement.Web.Models.Dtos
+@model (string Prefix, List<CategoryDto> Categories, List<TagDto> Tags)
+@{
+    var p = Model.Prefix;
+}
+
+<div class="mb-3">
+    <label class="form-label">Title</label>
+    <input id="@(p)-NewsTitle" name="NewsTitle" class="form-control" />
+</div>
+<div class="mb-3">
+    <label class="form-label">Headline</label>
+    <input id="@(p)-Headline" name="Headline" class="form-control" required />
+</div>
+<div class="row">
+    <div class="col-md-6 mb-3">
+        <label class="form-label">Category</label>
+        <select id="@(p)-CategoryId" name="CategoryId" class="form-select">
+            <option value="">-- Select category --</option>
+            @foreach (var category in Model.Categories)
+            {
+                <option value="@category.CategoryId">@category.CategoryName</option>
+            }
+        </select>
+    </div>
+    <div class="col-md-6 mb-3">
+        <label class="form-label">Source</label>
+        <input id="@(p)-NewsSource" name="NewsSource" class="form-control" />
+    </div>
+</div>
+<div class="mb-3">
+    <label class="form-label">Content</label>
+    <textarea id="@(p)-NewsContent" name="NewsContent" rows="8"></textarea>
+</div>
+<div class="form-check mb-3">
+    <input type="checkbox" id="@(p)-NewsStatus" name="NewsStatus" value="true" class="form-check-input" checked />
+    <label class="form-check-label">Active (visible to guests)</label>
+</div>
+<div class="mb-3" id="@(p)-tags">
+    <label class="form-label">Tags</label>
+    <div>
+        @foreach (var tag in Model.Tags)
+        {
+            <div class="form-check form-check-inline">
+                <input type="checkbox" class="form-check-input" name="TagIds" value="@tag.TagId" id="@(p)-tag-@tag.TagId" />
+                <label class="form-check-label" for="@(p)-tag-@tag.TagId">@tag.TagName</label>
+            </div>
+        }
+    </div>
+</div>
+<div class="mb-3">
+    <label class="form-label">New tags (comma-separated, optional)</label>
+    <input id="@(p)-NewTagNamesInput" name="newTagNamesInput" class="form-control" placeholder="e.g. AI, Robotics" />
+</div>

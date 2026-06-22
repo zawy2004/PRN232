@@ -1,0 +1,27 @@
+@model FUNewsManagement.Web.Models.Dtos.NewsArticleDto
+@{
+    ViewData["Title"] = Model.Headline;
+}
+
+<a asp-controller="Home" asp-action="Index" class="btn btn-link mb-3">&larr; Back to news</a>
+
+<article>
+    <h1>@Model.NewsTitle</h1>
+    <h5 class="text-muted">@Model.Headline</h5>
+    <p class="text-muted">
+        @Model.CategoryName &middot; @Model.CreatedDate?.ToLocalTime().ToString("g") &middot; by @Model.CreatedByName
+    </p>
+    <div class="mb-2">
+        @foreach (var tag in Model.Tags)
+        {
+            <a class="badge bg-secondary text-decoration-none me-1" asp-controller="Home" asp-action="Index" asp-route-tagId="@tag.TagId">@tag.TagName</a>
+        }
+    </div>
+    <div class="news-content">
+        @Html.Raw(Model.NewsContent)
+    </div>
+    @if (!string.IsNullOrWhiteSpace(Model.NewsSource))
+    {
+        <p class="text-muted mt-3"><small>Source: @Model.NewsSource</small></p>
+    }
+</article>
