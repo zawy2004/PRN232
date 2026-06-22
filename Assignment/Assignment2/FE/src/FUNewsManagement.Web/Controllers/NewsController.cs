@@ -26,7 +26,7 @@ public class NewsController : Controller
         var vm = new NewsManageViewModel
         {
             News = await _newsApiClient.GetForManagementAsync(keyword, tagId, mineOnly),
-            Categories = await _categoryApiClient.GetAllAsync(),
+            Categories = await _categoryApiClient.GetTreeAsync(),
             AllTags = await _tagApiClient.GetAllAsync(),
             Keyword = keyword,
             TagId = tagId,
@@ -70,6 +70,23 @@ public class NewsController : Controller
         try
         {
             await _newsApiClient.UpdateAsync(id, news);
+        }
+        catch (ApiException ex)
+        {
+            TempData["Error"] = ex.Message;
+        }
+
+        return RedirectToAction(nameof(Manage));
+    }
+
+    [HttpPost]
+    [ValidateAntiForgeryToken]
+    [Authorize(Roles = "Admin")]
+    public async Task<IActionResult> Approve(string id)
+    {
+        try
+        {
+            await _newsApiClient.ApproveAsync(id);
         }
         catch (ApiException ex)
         {

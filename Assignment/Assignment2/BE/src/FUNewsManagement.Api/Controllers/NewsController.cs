@@ -24,14 +24,14 @@ public class NewsController : ControllerBase
         [FromQuery] string? keyword, [FromQuery] int? tagId, [FromQuery] bool mineOnly = false)
     {
         short? createdById = mineOnly ? this.CurrentAccountId() : null;
-        var news = await _newsService.GetForManagementAsync(keyword, tagId, createdById, this.IsAdmin());
+        var news = await _newsService.GetForManagementAsync(keyword, tagId, createdById);
         return Ok(news);
     }
 
     [HttpGet("manage/{id}")]
     public async Task<ActionResult<NewsArticleDto>> GetById(string id)
     {
-        var article = await _newsService.GetByIdForManagementAsync(id, this.IsAdmin());
+        var article = await _newsService.GetByIdForManagementAsync(id);
         return article is null ? NotFound() : Ok(article);
     }
 
@@ -45,7 +45,16 @@ public class NewsController : ControllerBase
     [HttpPut("{id}")]
     public async Task<IActionResult> Update(string id, NewsArticleUpsertDto dto)
     {
-        await _newsService.UpdateAsync(id, dto, this.CurrentAccountId(), this.IsAdmin());
+        await _newsService.UpdateAsync(id, dto, this.CurrentAccountId());
+        return NoContent();
+    }
+
+    /// <summary>Admin-only: approve a pending article so it becomes visible to guests (and locked from edits).</summary>
+    [HttpPost("{id}/approve")]
+    [Authorize(Roles = RoleNames.Admin)]
+    public async Task<IActionResult> Approve(string id)
+    {
+        await _newsService.ApproveAsync(id);
         return NoContent();
     }
 

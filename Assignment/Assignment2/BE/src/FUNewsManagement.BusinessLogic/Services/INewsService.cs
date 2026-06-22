@@ -11,13 +11,16 @@ public interface INewsService
     Task<NewsArticleDto?> GetActiveByIdAsync(string id);
 
     /// <summary>Staff/Admin listing, optionally restricted to a single creator (own history) and/or filtered.</summary>
-    Task<List<NewsArticleDto>> GetForManagementAsync(string? keyword, int? tagId, short? createdById, bool isAdmin);
+    Task<List<NewsArticleDto>> GetForManagementAsync(string? keyword, int? tagId, short? createdById);
 
-    Task<NewsArticleDto?> GetByIdForManagementAsync(string id, bool isAdmin);
+    Task<NewsArticleDto?> GetByIdForManagementAsync(string id);
 
     Task<NewsArticleDto> CreateAsync(NewsArticleUpsertDto dto, short createdById);
 
-    Task UpdateAsync(string id, NewsArticleUpsertDto dto, short updatedById, bool isAdmin);
+    Task UpdateAsync(string id, NewsArticleUpsertDto dto, short updatedById);
+
+    /// <summary>Admin action: marks a pending article as approved, making it visible to guests and locking it from further edits.</summary>
+    Task ApproveAsync(string id);
 
     Task DeleteAsync(string id);
 

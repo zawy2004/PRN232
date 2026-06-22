@@ -8,9 +8,6 @@ namespace FUNewsManagement.BusinessLogic.Services;
 
 public class NewsService : INewsService
 {
-    /// <summary>News can no longer be edited by Staff once this window has elapsed since creation.</summary>
-    public static readonly TimeSpan EditWindow = TimeSpan.FromMinutes(3);
-
     private readonly IUnitOfWork _unitOfWork;
 
     public NewsService(IUnitOfWork unitOfWork)
@@ -20,19 +17,20 @@ public class NewsService : INewsService
 
     public async Task<List<NewsArticleDto>> GetActiveAsync(string? keyword, int? tagId)
     {
+        // NewsStatus == true means "approved" - guests only ever see approved articles.
         var query = ApplySearch(_unitOfWork.NewsArticles.QueryWithDetails().Where(n => n.NewsStatus == true), keyword, tagId);
         var entities = await query.OrderByDescending(n => n.CreatedDate).ToListAsync();
-        return entities.Select(e => MapEntity(e, isAdmin: false)).ToList();
+        return entities.Select(MapEntity).ToList();
     }
 
     public async Task<NewsArticleDto?> GetActiveByIdAsync(string id)
     {
         var entity = await _unitOfWork.NewsArticles.QueryWithDetails()
             .FirstOrDefaultAsync(n => n.NewsArticleId == id && n.NewsStatus == true);
-        return entity is null ? null : MapEntity(entity, isAdmin: false);
+        return entity is null ? null : MapEntity(entity);
     }
 
-    public async Task<List<NewsArticleDto>> GetForManagementAsync(string? keyword, int? tagId, short? createdById, bool isAdmin)
+    public async Task<List<NewsArticleDto>> GetForManagementAsync(string? keyword, int? tagId, short? createdById)
     {
         var query = _unitOfWork.NewsArticles.QueryWithDetails();
         if (createdById.HasValue)
@@ -41,13 +39,13 @@ public class NewsService : INewsService
         query = ApplySearch(query, keyword, tagId);
 
         var entities = await query.OrderByDescending(n => n.CreatedDate).ToListAsync();
-        return entities.Select(e => MapEntity(e, isAdmin)).ToList();
+        return entities.Select(MapEntity).ToList();
     }
 
-    public async Task<NewsArticleDto?> GetByIdForManagementAsync(string id, bool isAdmin)
+    public async Task<NewsArticleDto?> GetByIdForManagementAsync(string id)
     {
         var entity = await _unitOfWork.NewsArticles.GetWithDetailsAsync(id);
-        return entity is null ? null : MapEntity(entity, isAdmin);
+        return entity is null ? null : MapEntity(entity);
     }
 
     public async Task<NewsArticleDto> CreateAsync(NewsArticleUpsertDto dto, short createdById)
@@ -60,7 +58,7 @@ public class NewsService : INewsService
             NewsContent = dto.NewsContent,
             NewsSource = dto.NewsSource,
             CategoryId = dto.CategoryId,
-            NewsStatus = dto.NewsStatus,
+            NewsStatus = false, // new articles always start pending (unapproved) until an Admin approves them
             CreatedById = createdById,
             CreatedDate = DateTime.UtcNow,
         };
@@ -72,29 +70,42 @@ public class NewsService : INewsService
 
         var created = await _unitOfWork.NewsArticles.GetWithDetailsAsync(entity.NewsArticleId)
             ?? throw new EntityNotFoundException("News article was not persisted.");
-        return MapEntity(created, isAdmin: true);
+        return MapEntity(created);
     }
 
-    public async Task UpdateAsync(string id, NewsArticleUpsertDto dto, short updatedById, bool isAdmin)
+    public async Task UpdateAsync(string id, NewsArticleUpsertDto dto, short updatedById)
     {
         var entity = await _unitOfWork.NewsArticles.GetWithDetailsAsync(id)
             ?? throw new EntityNotFoundException($"News article {id} not found.");
 
-        if (!isAdmin && !CanEditNow(entity.CreatedDate, isAdmin: false))
-            throw new ForbiddenOperationException($"This article can no longer be edited; the {EditWindow.TotalMinutes:0}-minute edit window has elapsed.");
+        if (entity.NewsStatus == true)
+            throw new ForbiddenOperationException("This article has been approved and can no longer be edited.");
 
         entity.NewsTitle = dto.NewsTitle;
         entity.Headline = dto.Headline;
         entity.NewsContent = dto.NewsContent;
         entity.NewsSource = dto.NewsSource;
         entity.CategoryId = dto.CategoryId;
-        entity.NewsStatus = dto.NewsStatus;
+        // NewsStatus (approval) deliberately not changed here - it stays pending until Admin approves.
         entity.UpdatedById = updatedById;
         entity.ModifiedDate = DateTime.UtcNow;
 
         entity.Tags.Clear();
         await AttachTagsAsync(entity, dto);
 
+        _unitOfWork.NewsArticles.Update(entity);
+        await _unitOfWork.SaveChangesAsync();
+    }
+
+    public async Task ApproveAsync(string id)
+    {
+        var entity = await _unitOfWork.NewsArticles.GetByIdAsync(id)
+            ?? throw new EntityNotFoundException($"News article {id} not found.");
+
+        if (entity.NewsStatus == true)
+            throw new BusinessRuleException("This article has already been approved.");
+
+        entity.NewsStatus = true; // approve = publish (visible to guests) and lock from further edits
         _unitOfWork.NewsArticles.Update(entity);
         await _unitOfWork.SaveChangesAsync();
     }
@@ -125,13 +136,6 @@ public class NewsService : INewsService
             CreatedDate = e.CreatedDate,
             NewsStatus = e.NewsStatus ?? false,
         }).ToList();
-    }
-
-    public static bool CanEditNow(DateTime? createdDate, bool isAdmin)
-    {
-        if (isAdmin) return true;
-        if (createdDate is null) return false;
-        return DateTime.UtcNow - createdDate.Value <= EditWindow;
     }
 
     private async Task AttachTagsAsync(NewsArticle entity, NewsArticleUpsertDto dto)
@@ -172,7 +176,7 @@ public class NewsService : INewsService
         return query;
     }
 
-    private static NewsArticleDto MapEntity(NewsArticle e, bool isAdmin) => new()
+    private static NewsArticleDto MapEntity(NewsArticle e) => new()
     {
         NewsArticleId = e.NewsArticleId,
         NewsTitle = e.NewsTitle,
@@ -188,6 +192,7 @@ public class NewsService : INewsService
         UpdatedById = e.UpdatedById,
         ModifiedDate = e.ModifiedDate,
         Tags = e.Tags.Select(t => new TagDto { TagId = t.TagId, TagName = t.TagName ?? string.Empty, Note = t.Note }).ToList(),
-        CanEdit = CanEditNow(e.CreatedDate, isAdmin),
+        // Editable only while still pending (NewsStatus false); once approved it is locked for everyone.
+        CanEdit = !(e.NewsStatus ?? false),
     };
 }

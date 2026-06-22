@@ -47,7 +47,17 @@
                 <td>@news.CategoryName</td>
                 <td>@news.CreatedDate?.ToLocalTime().ToString("g")</td>
                 <td>@news.CreatedByName</td>
-                <td>@(news.NewsStatus ? "Active" : "Inactive")</td>
+                <td>
+                    @* NewsStatus true = approved (visible to guests), false = pending *@
+                    @if (news.NewsStatus)
+                    {
+                        <span class="badge bg-success">Approved</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-warning text-dark">Pending</span>
+                    }
+                </td>
                 <td>
                     @foreach (var tag in news.Tags)
                     {
@@ -55,13 +65,19 @@
                     }
                 </td>
                 <td class="text-end text-nowrap">
+                    @if (User.IsInRole("Admin") && !news.NewsStatus)
+                    {
+                        <form asp-controller="News" asp-action="Approve" asp-route-id="@news.NewsArticleId" method="post" class="d-inline">
+                            <button type="submit" class="btn btn-sm btn-outline-success">Approve</button>
+                        </form>
+                    }
                     @if (news.CanEdit)
                     {
                         <button class="btn btn-sm btn-outline-secondary edit-news-btn" data-id="@news.NewsArticleId">Edit</button>
                     }
                     else
                     {
-                        <button class="btn btn-sm btn-outline-secondary" disabled title="3-minute edit window has elapsed">Edit</button>
+                        <button class="btn btn-sm btn-outline-secondary" disabled title="Approved articles can no longer be edited">Edit</button>
                     }
                     <button class="btn btn-sm btn-outline-danger" data-bs-toggle="modal" data-bs-target="#deleteModal-@news.NewsArticleId">Delete</button>
                 </td>
@@ -156,7 +172,6 @@
                 document.getElementById('edit-Headline').value = news.headline || '';
                 document.getElementById('edit-NewsSource').value = news.newsSource || '';
                 document.getElementById('edit-CategoryId').value = news.categoryId || '';
-                document.getElementById('edit-NewsStatus').checked = news.newsStatus;
                 document.getElementById('edit-NewTagNamesInput').value = '';
 
                 document.querySelectorAll('#edit-tags input[type=checkbox]').forEach(function (cb) {

@@ -18,6 +18,10 @@ public class NewsArticleDto
 
     public string? CategoryName { get; set; }
 
+    /// <summary>
+    /// Approval flag (reuses the existing NewsStatus column to avoid a schema change):
+    /// false = pending (hidden from guests, still editable), true = approved (visible to guests, locked).
+    /// </summary>
     public bool NewsStatus { get; set; }
 
     public short? CreatedById { get; set; }
@@ -30,7 +34,7 @@ public class NewsArticleDto
 
     public List<TagDto> Tags { get; set; } = new();
 
-    /// <summary>True if the 3-minute edit window has not elapsed (always true for Admin).</summary>
+    /// <summary>True while the article is still pending (not yet approved); approved articles can no longer be edited.</summary>
     public bool CanEdit { get; set; }
 }
 
@@ -46,7 +50,8 @@ public class NewsArticleUpsertDto
 
     public short? CategoryId { get; set; }
 
-    public bool NewsStatus { get; set; } = true;
+    // Note: NewsStatus (approval) is intentionally NOT settable here - new articles always start
+    // pending and only the Admin Approve action can publish them. Staff cannot self-publish.
 
     public List<int> TagIds { get; set; } = new();
 

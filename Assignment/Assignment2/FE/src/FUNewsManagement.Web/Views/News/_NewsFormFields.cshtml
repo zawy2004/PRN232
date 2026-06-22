@@ -1,7 +1,21 @@
 @using FUNewsManagement.Web.Models.Dtos
-@model (string Prefix, List<CategoryDto> Categories, List<TagDto> Tags)
+@model (string Prefix, List<CategoryTreeDto> Categories, List<TagDto> Tags)
 @{
     var p = Model.Prefix;
+
+    // Đọc đúng cấu trúc cha-con của bảng Category (qua CategoryTreeDto) và "duỗi" cây ra thành 1
+    // list phẳng có kèm độ sâu (depth), để <select> vẫn là 1 danh sách <option> thường nhưng hiển
+    // thị thụt lề theo cấp - phản ánh đúng dữ liệu DB (Academic news > Technology > .NET/Java...).
+    var flatCategories = new List<(CategoryTreeDto Category, int Depth)>();
+    void FlattenCategoryTree(IEnumerable<CategoryTreeDto> nodes, int depth)
+    {
+        foreach (var node in nodes)
+        {
+            flatCategories.Add((node, depth));
+            FlattenCategoryTree(node.Children, depth + 1);
+        }
+    }
+    FlattenCategoryTree(Model.Categories, 0);
 }
 
 <div class="mb-3">
@@ -17,9 +31,10 @@
         <label class="form-label">Category</label>
         <select id="@(p)-CategoryId" name="CategoryId" class="form-select">
             <option value="">-- Select category --</option>
-            @foreach (var category in Model.Categories)
+            @foreach (var (category, depth) in flatCategories)
             {
-                <option value="@category.CategoryId">@category.CategoryName</option>
+                var indent = new string(' ', depth * 4);
+                <option value="@category.CategoryId">@(indent)@(depth > 0 ? "↳ " : "")@category.CategoryName</option>
             }
         </select>
     </div>
@@ -32,9 +47,8 @@
     <label class="form-label">Content</label>
     <textarea id="@(p)-NewsContent" name="NewsContent" rows="8"></textarea>
 </div>
-<div class="form-check mb-3">
-    <input type="checkbox" id="@(p)-NewsStatus" name="NewsStatus" value="true" class="form-check-input" checked />
-    <label class="form-check-label">Active (visible to guests)</label>
+<div class="alert alert-info py-2 small mb-3">
+    Bài viết mới sẽ ở trạng thái <strong>Chờ duyệt</strong> và chỉ hiển thị cho mọi người sau khi Admin phê duyệt.
 </div>
 <div class="mb-3" id="@(p)-tags">
     <label class="form-label">Tags</label>

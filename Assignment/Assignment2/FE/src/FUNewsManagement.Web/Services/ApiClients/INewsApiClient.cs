@@ -17,5 +17,8 @@ public interface INewsApiClient
 
     Task UpdateAsync(string id, NewsArticleUpsertDto dto);
 
+    /// <summary>Admin-only: approve a pending article so guests can see it.</summary>
+    Task ApproveAsync(string id);
+
     Task DeleteAsync(string id);
 }

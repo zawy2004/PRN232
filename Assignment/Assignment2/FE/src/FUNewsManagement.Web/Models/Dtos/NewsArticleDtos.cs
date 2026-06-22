@@ -20,6 +20,7 @@ public class NewsArticleDto
 
     public string? CategoryName { get; set; }
 
+    /// <summary>Approval flag (stored in the existing NewsStatus column): false = pending, true = approved/visible/locked.</summary>
     public bool NewsStatus { get; set; }
 
     public short? CreatedById { get; set; }
@@ -49,7 +50,7 @@ public class NewsArticleUpsertDto
 
     public short? CategoryId { get; set; }
 
-    public bool NewsStatus { get; set; } = true;
+    // Approval (NewsStatus) is not set from the form - new articles start pending and only an Admin can approve.
 
     public List<int> TagIds { get; set; } = new();
 

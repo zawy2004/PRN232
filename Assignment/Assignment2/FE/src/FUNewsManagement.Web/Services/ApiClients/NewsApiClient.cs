@@ -84,6 +84,12 @@ public class NewsApiClient : INewsApiClient
         await response.EnsureApiSuccessAsync();
     }
 
+    public async Task ApproveAsync(string id)
+    {
+        var response = await _httpClient.PostAsync($"api/news/{Uri.EscapeDataString(id)}/approve", null);
+        await response.EnsureApiSuccessAsync();
+    }
+
     public async Task DeleteAsync(string id)
     {
         var response = await _httpClient.DeleteAsync($"api/news/{Uri.EscapeDataString(id)}");

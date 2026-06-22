@@ -6,7 +6,7 @@ public class NewsManageViewModel
 {
     public List<NewsArticleDto> News { get; set; } = new();
 
-    public List<CategoryDto> Categories { get; set; } = new();
+    public List<CategoryTreeDto> Categories { get; set; } = new();
 
     public List<TagDto> AllTags { get; set; } = new();
 
