@@ -1,0 +1,20 @@
+wwwroot\UpdateReservation.html
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\icon\edit.svg
+wwwroot\icon\close.svg
+wwwroot\GetReservation.html
+wwwroot\AllReservation.html
+wwwroot\AddReservation.html
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\DemoAspWithJavascript\DemoAspWithJavascript\wwwroot\AddReservation.html
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\DemoAspWithJavascript\DemoAspWithJavascript\wwwroot\AllReservation.html
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\DemoAspWithJavascript\DemoAspWithJavascript\wwwroot\GetReservation.html
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\DemoAspWithJavascript\DemoAspWithJavascript\wwwroot\icon\close.svg
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\DemoAspWithJavascript\DemoAspWithJavascript\wwwroot\icon\edit.svg
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\DemoAspWithJavascript\DemoAspWithJavascript\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\DemoAspWithJavascript\DemoAspWithJavascript\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\DemoAspWithJavascript\DemoAspWithJavascript\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\DemoAspWithJavascript\DemoAspWithJavascript\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\gia huy\Documents\SUM26\PRN232\lambaitrenlop\DemoAspWithJavascript\DemoAspWithJavascript\wwwroot\UpdateReservation.html

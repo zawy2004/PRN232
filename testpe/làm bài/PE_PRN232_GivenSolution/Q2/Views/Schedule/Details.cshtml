@@ -1,0 +1,39 @@
+@model Q2.Models.ScheduleDetail
+@{
+    ViewData["Title"] = "Section's detail";
+}
+
+<h2>Section's detail</h2>
+
+<div class="info-line">
+    <strong>Section ID:</strong> <span id="span_@Model.SectionId">@Model.SectionId</span>
+</div>
+<div class="info-line">
+    <strong>Course Name:</strong> <span id="span_@Model.CourseName">@Model.CourseName</span>
+</div>
+<div class="info-line">
+    <strong>Room number:</strong> <span id="span_@Model.RoomNumber">@Model.RoomNumber</span>
+</div>
+
+<h4>Enrolled Students:</h4>
+<table>
+    <thead>
+        <tr>
+            <th>Student ID</th>
+            <th>Student Name</th>
+            <th>Grade</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var s in Model.Students)
+        {
+            <tr>
+                <td id="td_studentID_@s.StudentId">@s.StudentId</td>
+                <td id="td_studentName_@s.StudentId">@s.StudentName</td>
+                <td id="td_grade_@s.StudentId">@s.Grade</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p><a href="/Schedule">&laquo; Back to list</a></p>

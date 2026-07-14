@@ -1,0 +1,111 @@
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\bin\Debug\net8.0\appsettings.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.staticwebassets.endpoints.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.exe
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.deps.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.runtimeconfig.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.dll
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.pdb
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.csproj.AssemblyReference.cache
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.AssemblyInfoInputs.cache
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.AssemblyInfo.cs
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.csproj.CoreCompileInputs.cache
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\scopedcss\bundle\givenAPI.styles.css
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\swae.build.ex.cache
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.csproj.Up2Date
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.dll
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\refint\givenAPI.dll
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.pdb
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.genruntimeconfig.cache
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 1\givenAPI\givenAPI\obj\Debug\net8.0\ref\givenAPI.dll
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\bin\Debug\net8.0\appsettings.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.staticwebassets.endpoints.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.exe
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.deps.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.runtimeconfig.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.dll
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.pdb
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.csproj.AssemblyReference.cache
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.AssemblyInfoInputs.cache
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.AssemblyInfo.cs
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.csproj.CoreCompileInputs.cache
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\scopedcss\bundle\givenAPI.styles.css
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\swae.build.ex.cache
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.csproj.Up2Date
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.dll
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\refint\givenAPI.dll
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.pdb
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.genruntimeconfig.cache
+D:\FPT\Ra de thi\PRN232\Golden Solution\2026\De 2\givenAPI\givenAPI\obj\Debug\net8.0\ref\givenAPI.dll
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\bin\Debug\net8.0\appsettings.json
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.staticwebassets.endpoints.json
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.exe
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.deps.json
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.runtimeconfig.json
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.dll
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.pdb
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.csproj.AssemblyReference.cache
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.AssemblyInfoInputs.cache
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.AssemblyInfo.cs
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.csproj.CoreCompileInputs.cache
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\scopedcss\bundle\givenAPI.styles.css
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\swae.build.ex.cache
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.csproj.Up2Date
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.dll
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\refint\givenAPI.dll
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.pdb
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.genruntimeconfig.cache
+D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\net8.0\ref\givenAPI.dll
+D:\SP26\PRN232_SP26_PE_L1_719219\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.dll
+D:\SP26\PRN232_SP26_PE_L1_719219\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\refint\givenAPI.dll
+D:\SP26\PRN232_SP26_PE_L1_719219\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.pdb

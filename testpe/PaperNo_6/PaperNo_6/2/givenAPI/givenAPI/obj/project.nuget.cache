@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "/occ2IY85KE=",
+  "success": false,
+  "projectFilePath": "D:\\SP26\\PRN232_SP26_PE_L1_719219\\PaperNo_6\\2\\givenAPI\\givenAPI\\givenAPI.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.\r\n  An error occurred while sending the request.\r\n  The remote name could not be resolved: 'api.nuget.org'",
+      "projectPath": "D:\\SP26\\PRN232_SP26_PE_L1_719219\\PaperNo_6\\2\\givenAPI\\givenAPI\\givenAPI.csproj",
+      "filePath": "D:\\SP26\\PRN232_SP26_PE_L1_719219\\PaperNo_6\\2\\givenAPI\\givenAPI\\givenAPI.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

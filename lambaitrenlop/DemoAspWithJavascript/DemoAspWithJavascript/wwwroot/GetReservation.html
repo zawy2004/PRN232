@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Get Reservation</title>
+    <link href="lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <script src="lib/jquery/dist/jquery.js"></script>
+</head>
+<body>
+    <div class="container-fluid">
+        <h2>Get Reservation by Id <a href="AllReservation.html" class="btn btn-sm btn-secondary">Back</a></h2>
+        <div class="form-group">
+            <label for="Id">Id:</label>
+            <input type="text" class="form-control" id="Id" />
+        </div>
+        <button id="GetButton" class="btn btn-sm btn-primary">Get Reservation</button>
+        <div id="resultDiv" style="display:none">
+            <h2>Reservation</h2>
+            <table class="table table-sm table-striped table-bordered m-2">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Name</th>
+                        <th>Start Location</th>
+                        <th>End Location</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#GetButton").click(function (e) {
+                $("table tbody").html("");
+                $.ajax({
+                    url: "http://localhost:8871/api/Reservation/" + $("#Id").val(),
+                    type: "get",
+                    contentType: "application/json",
+                    success: function (result, status, xhr) {
+                        $("#resultDiv").show();
+                        if (typeof result !== 'undefined') {
+                            var str = "<tr><td>" + result["id"] + "</td><td>" + result["name"] + "</td><td>" +
+                                result["startLocation"] + "</td><td>" + result["endLocation"] + "</td></tr>";
+                            $("table tbody").append(str);
+                        }
+                        else {
+                            $("table tbody").append("<tr><td colspan=\"4\">No Reservation</td></tr>");
+                        }
+                    },
+                    error: function (xhr, status, error) {
+                        console.log(xhr);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

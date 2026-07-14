@@ -1,0 +1,49 @@
+[
+  {
+    "ContainingType": "givenAPI.Controllers.ExpertisesController",
+    "Method": "GetExpertises",
+    "RelativePath": "api/Expertises",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "givenAPI.Controllers.InstructorsController",
+    "Method": "GetDetails",
+    "RelativePath": "api/Instructors/{instructorId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "instructorId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "givenAPI.Controllers.InstructorsController",
+    "Method": "Search",
+    "RelativePath": "api/Instructors/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "expertise",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

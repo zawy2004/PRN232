@@ -1,0 +1,46 @@
+@model List<Q2.Models.ScheduleListItem>
+@{
+    ViewData["Title"] = "Teaching Schedule Search";
+}
+
+<h2>Teaching Schedule Search</h2>
+
+<form method="get" action="/Schedule">
+    <div class="form-group">
+        <label for="ip_instructorName">Instructor Name:</label><br />
+        <input type="text" id="ip_instructorName" name="instructor" value="@ViewBag.Instructor" placeholder="Enter instructor name..." />
+    </div>
+    <div class="form-group">
+        <label for="ip_courseName">Course Name:</label><br />
+        <input type="text" id="ip_courseName" name="course" value="@ViewBag.Course" placeholder="Enter course name..." />
+    </div>
+    <input type="submit" id="bt_search" class="btn-search" value="Search" />
+</form>
+
+<table>
+    <thead>
+        <tr>
+            <th>Instructor Name</th>
+            <th>Course Name</th>
+            <th>Semester</th>
+            <th>Room</th>
+            <th>Capacity</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td id="td_instructorName_@item.SectionId">@item.InstructorName</td>
+                <td id="td_courseName_@item.SectionId">@item.CourseName</td>
+                <td id="td_semester_@item.SectionId">@item.Semester</td>
+                <td id="td_room_@item.SectionId">@item.RoomNumber</td>
+                <td id="td_capacity_@item.SectionId">@item.MaxCapacity</td>
+                <td>
+                    <a id="a_@item.SectionId" href="/Schedule/@item.SectionId">View Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\Ra de thi\\PRN232\\PRN232_26SP_GivenAPI\\De 2\\givenAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A55028D1-4F0A-40D3-9186-09DB586DA745}|givenAPI\\givenAPI.csproj|d:\\fpt\\ra de thi\\prn232\\prn232_26sp_givenapi\\de 2\\givenapi\\givenapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A55028D1-4F0A-40D3-9186-09DB586DA745}|givenAPI\\givenAPI.csproj|solutionrelative:givenapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55028D1-4F0A-40D3-9186-09DB586DA745}|givenAPI\\givenAPI.csproj|d:\\fpt\\ra de thi\\prn232\\prn232_26sp_givenapi\\de 2\\givenapi\\givenapi\\controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55028D1-4F0A-40D3-9186-09DB586DA745}|givenAPI\\givenAPI.csproj|solutionrelative:givenapi\\controllers\\instructorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55028D1-4F0A-40D3-9186-09DB586DA745}|givenAPI\\givenAPI.csproj|d:\\fpt\\ra de thi\\prn232\\prn232_26sp_givenapi\\de 2\\givenapi\\givenapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A55028D1-4F0A-40D3-9186-09DB586DA745}|givenAPI\\givenAPI.csproj|solutionrelative:givenapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55028D1-4F0A-40D3-9186-09DB586DA745}|givenAPI\\givenAPI.csproj|d:\\fpt\\ra de thi\\prn232\\prn232_26sp_givenapi\\de 2\\givenapi\\givenapi\\givenapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A55028D1-4F0A-40D3-9186-09DB586DA745}|givenAPI\\givenAPI.csproj|solutionrelative:givenapi\\givenapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55028D1-4F0A-40D3-9186-09DB586DA745}|givenAPI\\givenAPI.csproj|d:\\fpt\\ra de thi\\prn232\\prn232_26sp_givenapi\\de 2\\givenapi\\givenapi\\models\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55028D1-4F0A-40D3-9186-09DB586DA745}|givenAPI\\givenAPI.csproj|solutionrelative:givenapi\\models\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55028D1-4F0A-40D3-9186-09DB586DA745}|givenAPI\\givenAPI.csproj|d:\\fpt\\ra de thi\\prn232\\prn232_26sp_givenapi\\de 2\\givenapi\\givenapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55028D1-4F0A-40D3-9186-09DB586DA745}|givenAPI\\givenAPI.csproj|solutionrelative:givenapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A55028D1-4F0A-40D3-9186-09DB586DA745}|givenAPI\\givenAPI.csproj|d:\\fpt\\ra de thi\\prn232\\prn232_26sp_givenapi\\de 2\\givenapi\\givenapi\\controllers\\expertisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A55028D1-4F0A-40D3-9186-09DB586DA745}|givenAPI\\givenAPI.csproj|solutionrelative:givenapi\\controllers\\expertisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\FPT\\Ra de thi\\PRN232\\PRN232_26SP_GivenAPI\\De 2\\givenAPI\\givenAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "givenAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\FPT\\Ra de thi\\PRN232\\PRN232_26SP_GivenAPI\\De 2\\givenAPI\\givenAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "givenAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-01T03:10:31.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "givenAPI",
+              "DocumentMoniker": "D:\\FPT\\Ra de thi\\PRN232\\PRN232_26SP_GivenAPI\\De 2\\givenAPI\\givenAPI\\givenAPI.csproj",
+              "RelativeDocumentMoniker": "givenAPI\\givenAPI.csproj",
+              "ToolTip": "D:\\FPT\\Ra de thi\\PRN232\\PRN232_26SP_GivenAPI\\De 2\\givenAPI\\givenAPI\\givenAPI.csproj",
+              "RelativeToolTip": "givenAPI\\givenAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-01T03:10:28.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataInitializer.cs",
+              "DocumentMoniker": "D:\\FPT\\Ra de thi\\PRN232\\PRN232_26SP_GivenAPI\\De 2\\givenAPI\\givenAPI\\Models\\DataInitializer.cs",
+              "RelativeDocumentMoniker": "givenAPI\\Models\\DataInitializer.cs",
+              "ToolTip": "D:\\FPT\\Ra de thi\\PRN232\\PRN232_26SP_GivenAPI\\De 2\\givenAPI\\givenAPI\\Models\\DataInitializer.cs",
+              "RelativeToolTip": "givenAPI\\Models\\DataInitializer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCAAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:22:44.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\Ra de thi\\PRN232\\PRN232_26SP_GivenAPI\\De 2\\givenAPI\\givenAPI\\Program.cs",
+              "RelativeDocumentMoniker": "givenAPI\\Program.cs",
+              "ToolTip": "D:\\FPT\\Ra de thi\\PRN232\\PRN232_26SP_GivenAPI\\De 2\\givenAPI\\givenAPI\\Program.cs",
+              "RelativeToolTip": "givenAPI\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:17:10.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT\\Ra de thi\\PRN232\\PRN232_26SP_GivenAPI\\De 2\\givenAPI\\givenAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "givenAPI\\appsettings.json",
+              "ToolTip": "D:\\FPT\\Ra de thi\\PRN232\\PRN232_26SP_GivenAPI\\De 2\\givenAPI\\givenAPI\\appsettings.json",
+              "RelativeToolTip": "givenAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-26T10:17:09.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InstructorsController.cs",
+              "DocumentMoniker": "D:\\FPT\\Ra de thi\\PRN232\\PRN232_26SP_GivenAPI\\De 2\\givenAPI\\givenAPI\\Controllers\\InstructorsController.cs",
+              "RelativeDocumentMoniker": "givenAPI\\Controllers\\InstructorsController.cs",
+              "ToolTip": "D:\\FPT\\Ra de thi\\PRN232\\PRN232_26SP_GivenAPI\\De 2\\givenAPI\\givenAPI\\Controllers\\InstructorsController.cs",
+              "RelativeToolTip": "givenAPI\\Controllers\\InstructorsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:17:00.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExpertisesController.cs",
+              "DocumentMoniker": "D:\\FPT\\Ra de thi\\PRN232\\PRN232_26SP_GivenAPI\\De 2\\givenAPI\\givenAPI\\Controllers\\ExpertisesController.cs",
+              "RelativeDocumentMoniker": "givenAPI\\Controllers\\ExpertisesController.cs",
+              "ToolTip": "D:\\FPT\\Ra de thi\\PRN232\\PRN232_26SP_GivenAPI\\De 2\\givenAPI\\givenAPI\\Controllers\\ExpertisesController.cs",
+              "RelativeToolTip": "givenAPI\\Controllers\\ExpertisesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:16:58.121Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

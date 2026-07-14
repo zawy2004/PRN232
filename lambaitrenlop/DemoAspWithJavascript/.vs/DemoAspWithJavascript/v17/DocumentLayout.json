@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\DemoAspWithJavascript\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAC4364-062A-42A6-9CFE-B46935C35619}|DemoAspWithJavascript\\DemoAspWithJavascript.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\lambaitrenlop\\demoaspwithjavascript\\demoaspwithjavascript\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCAC4364-062A-42A6-9CFE-B46935C35619}|DemoAspWithJavascript\\DemoAspWithJavascript.csproj|solutionrelative:demoaspwithjavascript\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAC4364-062A-42A6-9CFE-B46935C35619}|DemoAspWithJavascript\\DemoAspWithJavascript.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\lambaitrenlop\\demoaspwithjavascript\\demoaspwithjavascript\\wwwroot\\updatereservation.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCAC4364-062A-42A6-9CFE-B46935C35619}|DemoAspWithJavascript\\DemoAspWithJavascript.csproj|solutionrelative:demoaspwithjavascript\\wwwroot\\updatereservation.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAC4364-062A-42A6-9CFE-B46935C35619}|DemoAspWithJavascript\\DemoAspWithJavascript.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\lambaitrenlop\\demoaspwithjavascript\\demoaspwithjavascript\\wwwroot\\addreservation.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCAC4364-062A-42A6-9CFE-B46935C35619}|DemoAspWithJavascript\\DemoAspWithJavascript.csproj|solutionrelative:demoaspwithjavascript\\wwwroot\\addreservation.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAC4364-062A-42A6-9CFE-B46935C35619}|DemoAspWithJavascript\\DemoAspWithJavascript.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\lambaitrenlop\\demoaspwithjavascript\\demoaspwithjavascript\\wwwroot\\getreservation.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCAC4364-062A-42A6-9CFE-B46935C35619}|DemoAspWithJavascript\\DemoAspWithJavascript.csproj|solutionrelative:demoaspwithjavascript\\wwwroot\\getreservation.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAC4364-062A-42A6-9CFE-B46935C35619}|DemoAspWithJavascript\\DemoAspWithJavascript.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\lambaitrenlop\\demoaspwithjavascript\\demoaspwithjavascript\\wwwroot\\allreservation.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCAC4364-062A-42A6-9CFE-B46935C35619}|DemoAspWithJavascript\\DemoAspWithJavascript.csproj|solutionrelative:demoaspwithjavascript\\wwwroot\\allreservation.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCAC4364-062A-42A6-9CFE-B46935C35619}|DemoAspWithJavascript\\DemoAspWithJavascript.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\lambaitrenlop\\demoaspwithjavascript\\demoaspwithjavascript\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCAC4364-062A-42A6-9CFE-B46935C35619}|DemoAspWithJavascript\\DemoAspWithJavascript.csproj|solutionrelative:demoaspwithjavascript\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateReservation.html",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\DemoAspWithJavascript\\DemoAspWithJavascript\\wwwroot\\UpdateReservation.html",
+              "RelativeDocumentMoniker": "DemoAspWithJavascript\\wwwroot\\UpdateReservation.html",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\DemoAspWithJavascript\\DemoAspWithJavascript\\wwwroot\\UpdateReservation.html",
+              "RelativeToolTip": "DemoAspWithJavascript\\wwwroot\\UpdateReservation.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-18T01:25:10.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetReservation.html",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\DemoAspWithJavascript\\DemoAspWithJavascript\\wwwroot\\GetReservation.html",
+              "RelativeDocumentMoniker": "DemoAspWithJavascript\\wwwroot\\GetReservation.html",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\DemoAspWithJavascript\\DemoAspWithJavascript\\wwwroot\\GetReservation.html",
+              "RelativeToolTip": "DemoAspWithJavascript\\wwwroot\\GetReservation.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-18T01:25:04.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AllReservation.html",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\DemoAspWithJavascript\\DemoAspWithJavascript\\wwwroot\\AllReservation.html",
+              "RelativeDocumentMoniker": "DemoAspWithJavascript\\wwwroot\\AllReservation.html",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\DemoAspWithJavascript\\DemoAspWithJavascript\\wwwroot\\AllReservation.html",
+              "RelativeToolTip": "DemoAspWithJavascript\\wwwroot\\AllReservation.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-18T01:25:03.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddReservation.html",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\DemoAspWithJavascript\\DemoAspWithJavascript\\wwwroot\\AddReservation.html",
+              "RelativeDocumentMoniker": "DemoAspWithJavascript\\wwwroot\\AddReservation.html",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\DemoAspWithJavascript\\DemoAspWithJavascript\\wwwroot\\AddReservation.html",
+              "RelativeToolTip": "DemoAspWithJavascript\\wwwroot\\AddReservation.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-06-18T01:25:02.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\DemoAspWithJavascript\\DemoAspWithJavascript\\Program.cs",
+              "RelativeDocumentMoniker": "DemoAspWithJavascript\\Program.cs",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\DemoAspWithJavascript\\DemoAspWithJavascript\\Program.cs",
+              "RelativeToolTip": "DemoAspWithJavascript\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T01:23:31.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\DemoAspWithJavascript\\DemoAspWithJavascript\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DemoAspWithJavascript\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\lambaitrenlop\\DemoAspWithJavascript\\DemoAspWithJavascript\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DemoAspWithJavascript\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-18T01:23:14.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

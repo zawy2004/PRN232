@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1KaLDS3Rg+w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\làm bài\\PaperNo_6\\2\\givenAPI\\givenAPI\\givenAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gia huy\\.nuget\\packages\\microsoft.extensions.apidescription.server\\8.0.0\\microsoft.extensions.apidescription.server.8.0.0.nupkg.sha512",
+    "C:\\Users\\gia huy\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",
+    "C:\\Users\\gia huy\\.nuget\\packages\\swashbuckle.aspnetcore\\9.0.1\\swashbuckle.aspnetcore.9.0.1.nupkg.sha512",
+    "C:\\Users\\gia huy\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\9.0.1\\swashbuckle.aspnetcore.swagger.9.0.1.nupkg.sha512",
+    "C:\\Users\\gia huy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\9.0.1\\swashbuckle.aspnetcore.swaggergen.9.0.1.nupkg.sha512",
+    "C:\\Users\\gia huy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\9.0.1\\swashbuckle.aspnetcore.swaggerui.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
