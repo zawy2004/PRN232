@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\PE_PRN232_GivenSolution (1)\\PE_PRN232_GivenSolution\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54E88315-3504-43E0-861A-7A5697FBCCE2}|Q1\\Q1.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q1\\controllers\\sectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E88315-3504-43E0-861A-7A5697FBCCE2}|Q1\\Q1.csproj|solutionrelative:q1\\controllers\\sectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E88315-3504-43E0-861A-7A5697FBCCE2}|Q1\\Q1.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q1\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E88315-3504-43E0-861A-7A5697FBCCE2}|Q1\\Q1.csproj|solutionrelative:q1\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q2\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|solutionrelative:q2\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +43,43 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SectionsController.cs",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\Controllers\\SectionsController.cs",
+              "RelativeDocumentMoniker": "Q1\\Controllers\\SectionsController.cs",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\Controllers\\SectionsController.cs",
+              "RelativeToolTip": "Q1\\Controllers\\SectionsController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T11:44:15.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Q1\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Q1\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T09:21:36.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScheduleController.cs",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Controllers\\ScheduleController.cs",
+              "RelativeDocumentMoniker": "Q2\\Controllers\\ScheduleController.cs",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Controllers\\ScheduleController.cs",
+              "RelativeToolTip": "Q2\\Controllers\\ScheduleController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T14:48:34.436Z"
             }
           ]
         }
