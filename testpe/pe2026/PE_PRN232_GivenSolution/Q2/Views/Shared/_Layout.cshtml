@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>FPTGear</title>
+</head>
+<body style="font-family: sans-serif; margin: 20px;">
+    <div style="margin-bottom: 20px;">
+        <a asp-controller="Equipments" asp-action="Index">Equipments</a>
+        @if (!string.IsNullOrEmpty(Context.Session.GetString("Token")))
+        {
+            <span> | Logged in as @Context.Session.GetString("Email") (@Context.Session.GetString("Role"))</span>
+            <a asp-controller="Account" asp-action="Logout"> | Logout</a>
+        }
+        else
+        {
+            <a asp-controller="Account" asp-action="Login"> | Login</a>
+        }
+    </div>
+
+    @RenderBody()
+</body>
+</html>

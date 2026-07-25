@@ -1,0 +1,28 @@
+@model List<EquipmentDto>
+<h2>Equipments</h2>
+
+<table border="1" cellpadding="6">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Price/Day</th>
+            <th>Stock</th>
+            <th>Uploader Email</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var eq in Model)
+        {
+            <tr>
+                <td>@eq.Name</td>
+                <td>@eq.Category</td>
+                <td>@eq.PricePerDay</td>
+                <td>@eq.StockQuantity</td>
+                <td>@eq.UploaderEmail</td>
+                <td><a asp-action="Details" asp-route-id="@eq.EquipmentId">Details</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

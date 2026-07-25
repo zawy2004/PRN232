@@ -1,0 +1,41 @@
+@model CreateRentalDto
+@{
+    var equipment = (EquipmentDto)ViewBag.Equipment;
+}
+<h2>Rent: @equipment.Name</h2>
+
+@if (ViewBag.Error != null)
+{
+    <p style="color:red">@ViewBag.Error</p>
+}
+
+<p>Price/Day: @equipment.PricePerDay | Deposit Fee/Unit: @equipment.DepositFee | Available Stock: @equipment.StockQuantity</p>
+
+<form asp-action="Rent" method="post">
+    <input type="hidden" asp-for="EquipmentId" />
+    <div>
+        <label>Quantity</label>
+        <input asp-for="Quantity" id="quantity" type="number" min="1" max="@equipment.StockQuantity"
+               oninput="updateDeposit()" />
+    </div>
+    <div>
+        <label>Start Date</label>
+        <input asp-for="StartDate" type="date" />
+    </div>
+    <div>
+        <label>End Date</label>
+        <input asp-for="EndDate" type="date" />
+    </div>
+    <div>
+        <strong>Total Deposit: <span id="totalDeposit">@equipment.DepositFee</span></strong>
+    </div>
+    <button type="submit">Confirm Rent</button>
+</form>
+
+<script>
+    const depositFee = @equipment.DepositFee;
+    function updateDeposit() {
+        const qty = parseInt(document.getElementById('quantity').value) || 0;
+        document.getElementById('totalDeposit').innerText = (depositFee * qty).toFixed(2);
+    }
+</script>
