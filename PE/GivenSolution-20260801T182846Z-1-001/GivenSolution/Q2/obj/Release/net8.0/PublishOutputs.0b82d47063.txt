@@ -1,0 +1,8 @@
+C:\Users\gia huy\Documents\SUM26\PRN232\PE\GivenSolution-20260801T182846Z-1-001\GivenSolution\Q2\Q2_DE180522\Q2.exe
+C:\Users\gia huy\Documents\SUM26\PRN232\PE\GivenSolution-20260801T182846Z-1-001\GivenSolution\Q2\Q2_DE180522\appsettings.Development.json
+C:\Users\gia huy\Documents\SUM26\PRN232\PE\GivenSolution-20260801T182846Z-1-001\GivenSolution\Q2\Q2_DE180522\appsettings.json
+C:\Users\gia huy\Documents\SUM26\PRN232\PE\GivenSolution-20260801T182846Z-1-001\GivenSolution\Q2\Q2_DE180522\Q2.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\PE\GivenSolution-20260801T182846Z-1-001\GivenSolution\Q2\Q2_DE180522\Q2.deps.json
+C:\Users\gia huy\Documents\SUM26\PRN232\PE\GivenSolution-20260801T182846Z-1-001\GivenSolution\Q2\Q2_DE180522\Q2.runtimeconfig.json
+C:\Users\gia huy\Documents\SUM26\PRN232\PE\GivenSolution-20260801T182846Z-1-001\GivenSolution\Q2\Q2_DE180522\Q2.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\PE\GivenSolution-20260801T182846Z-1-001\GivenSolution\Q2\Q2_DE180522\Newtonsoft.Json.dll

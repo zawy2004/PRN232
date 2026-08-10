@@ -7,12 +7,88 @@
       "RelativeMoniker": "D:0:0:{54E88315-3504-43E0-861A-7A5697FBCCE2}|Q1\\Q1.csproj|solutionrelative:q1\\controllers\\sectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54E88315-3504-43E0-861A-7A5697FBCCE2}|Q1\\Q1.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q1\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54E88315-3504-43E0-861A-7A5697FBCCE2}|Q1\\Q1.csproj|solutionrelative:q1\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54E88315-3504-43E0-861A-7A5697FBCCE2}|Q1\\Q1.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E88315-3504-43E0-861A-7A5697FBCCE2}|Q1\\Q1.csproj|solutionrelative:q1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E88315-3504-43E0-861A-7A5697FBCCE2}|Q1\\Q1.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q1\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E88315-3504-43E0-861A-7A5697FBCCE2}|Q1\\Q1.csproj|solutionrelative:q1\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E88315-3504-43E0-861A-7A5697FBCCE2}|Q1\\Q1.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q1\\dtos\\sectiondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E88315-3504-43E0-861A-7A5697FBCCE2}|Q1\\Q1.csproj|solutionrelative:q1\\dtos\\sectiondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E88315-3504-43E0-861A-7A5697FBCCE2}|Q1\\Q1.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q1\\models\\classsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E88315-3504-43E0-861A-7A5697FBCCE2}|Q1\\Q1.csproj|solutionrelative:q1\\models\\classsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E88315-3504-43E0-861A-7A5697FBCCE2}|Q1\\Q1.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E88315-3504-43E0-861A-7A5697FBCCE2}|Q1\\Q1.csproj|solutionrelative:q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q2\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|solutionrelative:q2\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q2\\views\\schedule\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|solutionrelative:q2\\views\\schedule\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q2\\models\\schedulemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|solutionrelative:q2\\models\\schedulemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q2\\views\\schedule\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|solutionrelative:q2\\views\\schedule\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|solutionrelative:q2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|solutionrelative:q2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q2\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|solutionrelative:q2\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|solutionrelative:q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|solutionrelative:q2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q2\\huongdan_q2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|solutionrelative:q2\\huongdan_q2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|solutionrelative:q2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|solutionrelative:q2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F37D33E-F59E-41DF-AAB2-93142C1F9A1D}|Q2\\Q2.csproj|solutionrelative:q2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E88315-3504-43E0-861A-7A5697FBCCE2}|Q1\\Q1.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54E88315-3504-43E0-861A-7A5697FBCCE2}|Q1\\Q1.csproj|solutionrelative:q1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E88315-3504-43E0-861A-7A5697FBCCE2}|Q1\\Q1.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q1\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E88315-3504-43E0-861A-7A5697FBCCE2}|Q1\\Q1.csproj|solutionrelative:q1\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E88315-3504-43E0-861A-7A5697FBCCE2}|Q1\\Q1.csproj|c:\\users\\gia huy\\documents\\sum26\\prn232\\testpe\\l\u00E0m b\u00E0i\\pe_prn232_givensolution\\q1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E88315-3504-43E0-861A-7A5697FBCCE2}|Q1\\Q1.csproj|solutionrelative:q1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,40 +122,278 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Q1\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Q1\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T00:34:16.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Views\\Schedule\\Index.cshtml",
+              "RelativeDocumentMoniker": "Q2\\Views\\Schedule\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Views\\Schedule\\Index.cshtml*",
+              "RelativeToolTip": "Q2\\Views\\Schedule\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-02T04:10:18.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Views\\Schedule\\Details.cshtml",
+              "RelativeDocumentMoniker": "Q2\\Views\\Schedule\\Details.cshtml",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Views\\Schedule\\Details.cshtml",
+              "RelativeToolTip": "Q2\\Views\\Schedule\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-02T04:10:17.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScheduleController.cs",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Controllers\\ScheduleController.cs",
+              "RelativeDocumentMoniker": "Q2\\Controllers\\ScheduleController.cs",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Controllers\\ScheduleController.cs",
+              "RelativeToolTip": "Q2\\Controllers\\ScheduleController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T14:48:34.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScheduleModels.cs",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Models\\ScheduleModels.cs",
+              "RelativeDocumentMoniker": "Q2\\Models\\ScheduleModels.cs",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Models\\ScheduleModels.cs",
+              "RelativeToolTip": "Q2\\Models\\ScheduleModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T09:51:47.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SectionDtos.cs",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\DTOs\\SectionDtos.cs",
+              "RelativeDocumentMoniker": "Q1\\DTOs\\SectionDtos.cs",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\DTOs\\SectionDtos.cs",
+              "RelativeToolTip": "Q1\\DTOs\\SectionDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T03:44:20.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassSection.cs",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\Models\\ClassSection.cs",
+              "RelativeDocumentMoniker": "Q1\\Models\\ClassSection.cs",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\Models\\ClassSection.cs",
+              "RelativeToolTip": "Q1\\Models\\ClassSection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T03:54:01.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SectionsController.cs",
               "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\Controllers\\SectionsController.cs",
               "RelativeDocumentMoniker": "Q1\\Controllers\\SectionsController.cs",
               "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\Controllers\\SectionsController.cs",
               "RelativeToolTip": "Q1\\Controllers\\SectionsController.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-19T11:44:15.841Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ValuesController.cs",
-              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\Controllers\\ValuesController.cs",
-              "RelativeDocumentMoniker": "Q1\\Controllers\\ValuesController.cs",
-              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\Controllers\\ValuesController.cs",
-              "RelativeToolTip": "Q1\\Controllers\\ValuesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "EnrollmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\Controllers\\EnrollmentsController.cs",
+              "RelativeDocumentMoniker": "Q1\\Controllers\\EnrollmentsController.cs",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\Controllers\\EnrollmentsController.cs",
+              "RelativeToolTip": "Q1\\Controllers\\EnrollmentsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T09:21:36.742Z"
+              "WhenOpened": "2026-08-01T14:00:56.57Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ScheduleController.cs",
-              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Controllers\\ScheduleController.cs",
-              "RelativeDocumentMoniker": "Q2\\Controllers\\ScheduleController.cs",
-              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Controllers\\ScheduleController.cs",
-              "RelativeToolTip": "Q2\\Controllers\\ScheduleController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\appsettings.json",
+              "RelativeDocumentMoniker": "Q2\\appsettings.json",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\appsettings.json",
+              "RelativeToolTip": "Q2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-02T04:19:28.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Q2\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\appsettings.Development.json",
+              "RelativeToolTip": "Q2\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-02T04:19:27.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Utilities.cs",
+              "RelativeDocumentMoniker": "Q2\\Utilities.cs",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Utilities.cs",
+              "RelativeToolTip": "Q2\\Utilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T14:48:34.436Z"
+              "WhenOpened": "2026-08-02T03:29:21.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Q2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Q2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-02T09:53:20.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\Program.cs",
+              "RelativeDocumentMoniker": "Q1\\Program.cs",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\Program.cs",
+              "RelativeToolTip": "Q1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T03:25:55.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Program.cs",
+              "RelativeDocumentMoniker": "Q2\\Program.cs",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Program.cs",
+              "RelativeToolTip": "Q2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T03:29:20.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HuongDan_Q2.md",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\HuongDan_Q2.md",
+              "RelativeDocumentMoniker": "Q2\\HuongDan_Q2.md",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\HuongDan_Q2.md",
+              "RelativeToolTip": "Q2\\HuongDan_Q2.md",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-08-02T09:51:40.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Q2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Q2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-02T04:10:24.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Q2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Q2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-02T04:10:12.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Q2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Q2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-02T04:10:14.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\appsettings.json",
+              "RelativeDocumentMoniker": "Q1\\appsettings.json",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\appsettings.json",
+              "RelativeToolTip": "Q1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-02T03:28:02.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Q1\\Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\Models\\Instructor.cs",
+              "RelativeToolTip": "Q1\\Models\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T03:26:16.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Q1\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\gia huy\\Documents\\SUM26\\PRN232\\testpe\\l\u00E0m b\u00E0i\\PE_PRN232_GivenSolution\\Q1\\Models\\Student.cs",
+              "RelativeToolTip": "Q1\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T03:26:14.888Z"
             }
           ]
         }

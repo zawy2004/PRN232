@@ -1,0 +1,60 @@
+@model List<MovieSearchDto>
+@{
+    var genres = ViewBag.Genres as List<GenreDto> ?? new List<GenreDto>();
+    int selectedGenreId = ViewBag.SelectedGenreId;
+    string selectedPriceSegment = ViewBag.SelectedPriceSegment;
+}
+
+<div class="cinema-container">
+    <h2 style="margin-top: 0; margin-bottom: 20px;">Cinema Movie Catalog Management</h2>
+
+    <!-- Form tim kiem nang cao -->
+    <form method="get" action="/Movie" class="filter-section">
+        <div class="filter-item">
+            <label>Genre Category:</label>
+            <select name="genreId" id="sl_genres">
+                <option value="0" id="op_0" selected="@(selectedGenreId == 0)">All genres</option>
+                @foreach (var g in genres)
+                {
+                    <option value="@g.GenreID" id="op_@g.GenreID" selected="@(selectedGenreId == g.GenreID)">@g.GenreName</option>
+                }
+            </select>
+        </div>
+
+        <div class="filter-item">
+            <label>Price Segment:</label>
+            <select name="priceSegment" id="sl_priceSegment">
+                <option value="All prices" selected="@(selectedPriceSegment == "All prices")">All prices</option>
+                <option value="Budget ( < 90K )" selected="@(selectedPriceSegment == "Budget ( < 90K )")">Budget ( &lt; 90K )</option>
+                <option value="Premium ( >= 90K )" selected="@(selectedPriceSegment == "Premium ( >= 90K )")">Premium ( &gt;= 90K )</option>
+            </select>
+        </div>
+
+        <button type="submit" id="bt_search" class="btn-submit">Search</button>
+    </form>
+
+    <!-- Bang ket qua -->
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th style="width: 280px;">Movie Title</th>
+                <th style="width: 150px;">Duration (mins)</th>
+                <th style="width: 150px;">Base Price</th>
+                <th style="width: 150px;">Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var m in Model)
+            {
+                <tr>
+                    <td id="td_title_@m.MovieID">@m.Title</td>
+                    <td id="td_duration_@m.MovieID">@m.Duration mins</td>
+                    <td id="td_price_@m.MovieID">@m.BasePrice.ToString("0.00")</td>
+                    <td>
+                        <a href="/Movie/Analyze/@m.MovieID" id="a_@m.MovieID" class="btn-action">Analyze Movie</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

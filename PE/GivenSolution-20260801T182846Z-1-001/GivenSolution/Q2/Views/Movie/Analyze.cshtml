@@ -1,0 +1,46 @@
+@model MovieDetailDto
+
+<div class="analyze-container">
+    <div class="movie-card">
+        <h3>Movie Specifications</h3>
+        <div class="movie-item"><strong>Movie ID:</strong> <span id="span_@Model.MovieID">@Model.MovieID</span></div>
+        <div class="movie-item"><strong>Movie Title:</strong> <span id="span_title">@Model.Title</span></div>
+        <div class="movie-item"><strong>Base Price:</strong> <span id="span_price">@Model.BasePrice.ToString("0.00")</span></div>
+    </div>
+
+    <h4 style="margin-bottom: 15px; border-bottom: 1px solid #dee2e6; padding-bottom: 10px; width: 750px;">Purchased Combo Add-ons</h4>
+
+    <table class="combo-table">
+        <thead>
+            <tr>
+                <th style="width: 300px;">Combo Name</th>
+                <th style="width: 200px;">Combo Price</th>
+                <th style="width: 250px;">Theater Status Segment</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var c in Model.PurchasedCombos)
+            {
+                // TaxedPrice = ComboPrice * 1.05 (5% service tax added)
+                // > 40,000 => Premium Item (red, bold) | otherwise => Standard Item (green)
+                decimal taxedPrice = c.ComboPrice * 1.05m;
+                bool isPremium = taxedPrice > 40000m;
+
+                <tr>
+                    <td id="td_name_@c.ComboID">@c.ComboName</td>
+                    <td id="td_comboPrice_@c.ComboID">@c.ComboPrice.ToString("0.00")</td>
+                    <td id="td_segment_@c.ComboID">
+                        @if (isPremium)
+                        {
+                            <span class="item-premium">Premium Item</span>
+                        }
+                        else
+                        {
+                            <span class="item-standard">Standard Item</span>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

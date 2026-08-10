@@ -28,3 +28,4 @@ C:\Users\gia huy\Documents\SUM26\PRN232\testpe\làm bài\PE_PRN232_GivenSolution
 C:\Users\gia huy\Documents\SUM26\PRN232\testpe\làm bài\PE_PRN232_GivenSolution\Q2\obj\Debug\net8.0\Q2.pdb
 C:\Users\gia huy\Documents\SUM26\PRN232\testpe\làm bài\PE_PRN232_GivenSolution\Q2\obj\Debug\net8.0\Q2.genruntimeconfig.cache
 C:\Users\gia huy\Documents\SUM26\PRN232\testpe\làm bài\PE_PRN232_GivenSolution\Q2\obj\Debug\net8.0\ref\Q2.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\làm bài\PE_PRN232_GivenSolution\Q2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

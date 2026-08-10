@@ -109,3 +109,39 @@ D:\FPT\Ra de thi\PRN232\PRN232_26SP_GivenAPI\De 2\givenAPI\givenAPI\obj\Debug\ne
 D:\SP26\PRN232_SP26_PE_L1_719219\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.dll
 D:\SP26\PRN232_SP26_PE_L1_719219\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\refint\givenAPI.dll
 D:\SP26\PRN232_SP26_PE_L1_719219\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.staticwebassets.endpoints.json
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.exe
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.deps.json
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.runtimeconfig.json
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\bin\Debug\net8.0\givenAPI.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.csproj.AssemblyReference.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.AssemblyInfoInputs.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.AssemblyInfo.cs
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.csproj.CoreCompileInputs.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.sourcelink.json
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\scopedcss\bundle\givenAPI.styles.css
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.csproj.Up2Date
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\refint\givenAPI.dll
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.pdb
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\givenAPI.genruntimeconfig.cache
+C:\Users\gia huy\Documents\SUM26\PRN232\testpe\PaperNo_6\PaperNo_6\2\givenAPI\givenAPI\obj\Debug\net8.0\ref\givenAPI.dll
